@@ -1,0 +1,44 @@
+
+Started Import Process
+# System Details: 
+Debug Mode 		: Disabled
+Operating System 	: WINNT
+Software 		: Apache/2.4.39 (Win64) OpenSSL/1.1.1c PHP/7.3.8
+MySQL version 		: 5.5.5
+XML Reader 		: Yes
+PHP Version 		: 7.3.8
+PHP Max Input Vars 	: 1000
+PHP Max Post Size 	: 4000M
+PHP Extension GD 	: Yes
+PHP Max Execution Time 	: 30
+Max Upload Size 	: 4 GB
+Memory Limit 		: Current memory limit 40M. We recommend setting memory to at least 64M.
+Timezone 		: 0
+
+-----
+
+Importing Started! - 18:02:04 UTC
+---
+
+WHY IMPORT PROCESS CAN FAIL? READ THIS - 
+https://wpastra.com/docs/?p=1314&utm_source=demo-import-panel&utm_campaign=import-error&utm_medium=wp-dashboard
+
+---
+
+Inserted WP Form 58
+Imported Customizer Settings {"astra-settings":{"astra-addon-auto-version":"2.0.0","theme-auto-version":"2.0.1","site-content-width":1140,"different-retina-logo":true,"ast-header-retina-logo":"https:\/\/websitedemos.net\/alex21\/wp-content\/uploads\/sites\/275\/2018\/09\/logo-@2x-free-img.png","display-site-tagline":false,"logo-title-inline":false,"header-main-rt-section":"button","header-main-rt-section-html":"<button>HIRE ME<\/button>","header-main-sep":0,"header-main-layout-width":"full","mobile-header-toggle-target":"icon","hide-custom-menu-mobile":false,"mobile-header-toggle-btn-style":"outline","mobile-header-toggle-btn-style-color":"#000000","mobile-header-toggle-btn-border-radius":0,"header-main-menu-align":"inline","ast-header-responsive-logo-width":{"desktop":"","tablet":"","mobile":"65"},"footer-sml-layout":"footer-sml-layout-2","footer-sml-section-1-credit":"Copyright \u00a9 [current_year] [site_title]","footer-sml-section-2":"menu","footer-sml-divider":0,"footer-layout-width":"full","theme-color":"#839595","link-color":"#000000","text-color":"#839595","link-h-color":"#000000","footer-color":"#ffffff","footer-link-color":"#ffffff","footer-link-h-color":"#ffffff","footer-bg-obj":{"background-color":"#839595","background-image":"","background-repeat":"repeat","background-position":"center center","background-size":"auto","background-attachment":"scroll"},"body-font-family":"'Fjalla One', sans-serif","body-font-weight":"400","font-size-body":{"desktop":"16","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"headings-font-family":"'Fjalla One', sans-serif","headings-font-weight":"400","font-size-site-title":{"desktop":"27","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-site-tagline":{"desktop":"14","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"button-color":"#ffffff","button-h-color":"#ffffff","button-bg-color":"#839595","button-bg-h-color":"#000000","button-radius":0,"button-v-padding":8,"button-h-padding":24,"font-size-h1":{"desktop":"65","tablet":"52","mobile":"40","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-h2":{"desktop":"60","tablet":"50","mobile":"35","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-h3":{"desktop":"45","tablet":"","mobile":"30","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-h4":{"desktop":"30","tablet":"","mobile":"25","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-h5":{"desktop":"22","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-h6":{"desktop":"15","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"above-header-submenu-border":{"top":"1","bottom":"1","left":"1","right":"1"},"above-header-submenu-item-border":1,"below-header-submenu-border":{"top":"1","bottom":"1","left":"1","right":"1"},"below-header-submenu-item-border":1,"above-nav-menu-pointer-effect":"none","below-nav-menu-pointer-effect":"none","above-header-submenu-border-color":"#eaeaea","below-header-submenu-container-animation":"","above-header-submenu-container-animation":"","primary-submenu-border":{"top":"0","right":"0","bottom":"0","left":"0"},"primary-submenu-item-border":1,"nav-menu-pointer-effect":"none","submenu-below-header":false,"primary-submenu-b-color":"#eaeaea","header-main-submenu-container-animation":"","primary-submenu-item-b-color":"#eaeaea","above-header-submenu-item-b-color":"#eaeaea","body-font-variant":"400","headings-font-variant":"400","transparent-header-enable":0,"font-size-page-title":{"desktop":"30","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"wc-header-cart-header-colors":false,"shop-quick-view-stick-cart":true,"header-main-rt-section-button-text":"HIRE ME","header-main-rt-section-button-link":"#","display-site-title":false,"site-content-layout":"boxed-container","_astra_pb_compatibility_completed":true},"custom-css":".elementor-image-carousel { width: 1px; min-width: 100%; *width: 100%; }\n\n.elementor-swiper .swiper-wrapper { width: 1px; min-width: 100%; *width: 100%; }"}
+Imported - Widgets {"sidebar-1":{"search-2":{"title":""},"recent-posts-2":{"title":"","number":5},"recent-comments-2":{"title":"","number":5},"archives-2":{"title":"","count":0,"dropdown":0},"categories-2":{"title":"","count":0,"hierarchical":0,"dropdown":0},"meta-2":{"title":""}}}
+Complete 
+Batch Process Started!
+Astra Sites - Importing Images for Blog name 'Quiz time' (1)
+---- Processing Images from Widgets -----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing MISC ----
+Post ID: 51
+Post ID: 50
+Post ID: 19
+Post ID: 17
+Post ID: 18
+Post ID: 20
+Post ID: 16
+Batch Process Complete!

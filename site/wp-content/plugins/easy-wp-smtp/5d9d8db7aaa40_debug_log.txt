@@ -1,0 +1,1571 @@
+Easy WP SMTP debug log file
+
+CLIENT -> SERVER: EHLO localhost
+CLIENT -> SERVER: STARTTLS
+CLIENT -> SERVER: EHLO localhost
+CLIENT -> SERVER: AUTH CRAM-MD5
+CLIENT -> SERVER: MDY5ODY4OGM4Y2ExNWEgZmUzYTlmZTQ1Yzk2MWQxYzEwNTIyYTljM2RiMzRiNjg=
+CLIENT -> SERVER: MAIL FROM:<shezmerhant786@gmail.com>
+CLIENT -> SERVER: RCPT TO:<shezmerchant786@gmail.com>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Wed, 9 Oct 2019 07:35:19 +0000
+CLIENT -> SERVER: To: shezmerchant786@gmail.com
+CLIENT -> SERVER: From: WordPress <shezmerhant786@gmail.com>
+CLIENT -> SERVER: Reply-To: admin <shezmerchant786@gmail.com>
+CLIENT -> SERVER: Subject: Quiz results for General Knowledge Quiz
+CLIENT -> SERVER: Message-ID: <691b0389908b9bd28b1778199f5067a0@localhost>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+CLIENT -> SERVER: Content-Transfer-Encoding: quoted-printable
+CLIENT -> SERVER: 
+CLIENT -> SERVER: <div class=3D'qmn_question_answer qmn_question_answer_correct'></div><div c=
+CLIENT -> SERVER: lass=3D'qmn_question_answer qmn_question_answer_incorrect'></div><div class=
+CLIENT -> SERVER: =3D'qmn_question_answer qmn_question_answer_correct'></div><div class=3D'qm=
+CLIENT -> SERVER: n_question_answer qmn_question_answer_correct'></div><div class=3D'qmn_ques=
+CLIENT -> SERVER: tion_answer qmn_question_answer_correct'></div><div class=3D'qmn_question_a=
+CLIENT -> SERVER: nswer qmn_question_answer_correct'></div><div class=3D'qmn_question_answer =
+CLIENT -> SERVER: qmn_question_answer_correct'></div><div class=3D'qmn_question_answer qmn_qu=
+CLIENT -> SERVER: estion_answer_correct'></div><div class=3D'qmn_question_answer qmn_question=
+CLIENT -> SERVER: _answer_correct'></div><div class=3D'qmn_question_answer qmn_question_answe=
+CLIENT -> SERVER: r_correct'></div><div class=3D'qmn_question_answer qmn_question_answer_corr=
+CLIENT -> SERVER: ect'></div><div class=3D'qmn_question_answer qmn_question_answer_correct'><=
+CLIENT -> SERVER: /div><div class=3D'qmn_question_answer qmn_question_answer_correct'></div><=
+CLIENT -> SERVER: div class=3D'qmn_question_answer qmn_question_answer_correct'></div><div cl=
+CLIENT -> SERVER: ass=3D'qmn_question_answer qmn_question_answer_correct'></div><div class=3D=
+CLIENT -> SERVER: 'qmn_question_answer qmn_question_answer_correct'></div><div class=3D'qmn_q=
+CLIENT -> SERVER: uestion_answer qmn_question_answer_correct'></div><div class=3D'qmn_questio=
+CLIENT -> SERVER: n_answer qmn_question_answer_correct'></div><div class=3D'qmn_question_answ=
+CLIENT -> SERVER: er qmn_question_answer_correct'></div><div class=3D'qmn_question_answer qmn=
+CLIENT -> SERVER: _question_answer_correct'></div><div class=3D'qmn_question_answer qmn_quest=
+CLIENT -> SERVER: ion_answer_correct'></div><div class=3D'qmn_question_answer qmn_question_an=
+CLIENT -> SERVER: swer_correct'></div><div class=3D'qmn_question_answer qmn_question_answer_c=
+CLIENT -> SERVER: orrect'></div><div class=3D'qmn_question_answer qmn_question_answer_correct=
+CLIENT -> SERVER: '></div><div class=3D'qmn_question_answer qmn_question_answer_correct'></di=
+CLIENT -> SERVER: v>
+CLIENT -> SERVER: .
+CLIENT -> SERVER: QUIT
+CLIENT -> SERVER: EHLO localhost
+CLIENT -> SERVER: STARTTLS
+CLIENT -> SERVER: EHLO localhost
+CLIENT -> SERVER: AUTH CRAM-MD5
+CLIENT -> SERVER: MDY5ODY4OGM4Y2ExNWEgMDgyYTNjY2Y0ZjQ4YmU3ZTllYjg2YmE1ZDg4Njk0ODg=
+CLIENT -> SERVER: MAIL FROM:<shezmerhant786@gmail.com>
+CLIENT -> SERVER: RCPT TO:<shezmerchant786@gmail.com>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Wed, 9 Oct 2019 07:37:26 +0000
+CLIENT -> SERVER: To: shezmerchant786@gmail.com
+CLIENT -> SERVER: From: WordPress <shezmerhant786@gmail.com>
+CLIENT -> SERVER: Reply-To: admin <shezmerchant786@gmail.com>
+CLIENT -> SERVER: Subject: Quiz results for General Knowledge Quiz
+CLIENT -> SERVER: Message-ID: <5d5bd18e3f90e8fca32eb6cd9016a791@localhost>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+CLIENT -> SERVER: Content-Transfer-Encoding: quoted-printable
+CLIENT -> SERVER: 
+CLIENT -> SERVER: <div class=3D'qmn_question_answer qmn_question_answer_incorrect'></div><div=
+CLIENT -> SERVER:  class=3D'qmn_question_answer qmn_question_answer_incorrect'></div><div cla=
+CLIENT -> SERVER: ss=3D'qmn_question_answer qmn_question_answer_incorrect'></div><div class=
+CLIENT -> SERVER: =3D'qmn_question_answer qmn_question_answer_incorrect'></div><div class=3D'=
+CLIENT -> SERVER: qmn_question_answer qmn_question_answer_incorrect'></div><div class=3D'qmn_=
+CLIENT -> SERVER: question_answer qmn_question_answer_incorrect'></div><div class=3D'qmn_ques=
+CLIENT -> SERVER: tion_answer qmn_question_answer_incorrect'></div><div class=3D'qmn_question=
+CLIENT -> SERVER: _answer qmn_question_answer_incorrect'></div><div class=3D'qmn_question_ans=
+CLIENT -> SERVER: wer qmn_question_answer_incorrect'></div><div class=3D'qmn_question_answer =
+CLIENT -> SERVER: qmn_question_answer_incorrect'></div><div class=3D'qmn_question_answer qmn_=
+CLIENT -> SERVER: question_answer_incorrect'></div><div class=3D'qmn_question_answer qmn_ques=
+CLIENT -> SERVER: tion_answer_incorrect'></div><div class=3D'qmn_question_answer qmn_question=
+CLIENT -> SERVER: _answer_incorrect'></div><div class=3D'qmn_question_answer qmn_question_ans=
+CLIENT -> SERVER: wer_incorrect'></div><div class=3D'qmn_question_answer qmn_question_answer_=
+CLIENT -> SERVER: incorrect'></div><div class=3D'qmn_question_answer qmn_question_answer_inco=
+CLIENT -> SERVER: rrect'></div><div class=3D'qmn_question_answer qmn_question_answer_incorrec=
+CLIENT -> SERVER: t'></div><div class=3D'qmn_question_answer qmn_question_answer_incorrect'><=
+CLIENT -> SERVER: /div><div class=3D'qmn_question_answer qmn_question_answer_incorrect'></div=
+CLIENT -> SERVER: ><div class=3D'qmn_question_answer qmn_question_answer_incorrect'></div><di=
+CLIENT -> SERVER: v class=3D'qmn_question_answer qmn_question_answer_incorrect'></div><div cl=
+CLIENT -> SERVER: ass=3D'qmn_question_answer qmn_question_answer_incorrect'></div><div class=
+CLIENT -> SERVER: =3D'qmn_question_answer qmn_question_answer_incorrect'></div><div class=3D'=
+CLIENT -> SERVER: qmn_question_answer qmn_question_answer_incorrect'></div><div class=3D'qmn_=
+CLIENT -> SERVER: question_answer qmn_question_answer_incorrect'></div>
+CLIENT -> SERVER: .
+CLIENT -> SERVER: QUIT
+CLIENT -> SERVER: EHLO localhost
+CLIENT -> SERVER: STARTTLS
+CLIENT -> SERVER: EHLO localhost
+CLIENT -> SERVER: AUTH CRAM-MD5
+CLIENT -> SERVER: MDY5ODY4OGM4Y2ExNWEgZWRmNzg0YzU2ODdiMThlOTY5NjYyYzEzOWU4YWZkNjA=
+CLIENT -> SERVER: MAIL FROM:<shezmerhant786@gmail.com>
+CLIENT -> SERVER: RCPT TO:<abbaslakhani@hotmail.com>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Wed, 9 Oct 2019 09:02:18 +0000
+CLIENT -> SERVER: To: abbaslakhani@hotmail.com
+CLIENT -> SERVER: From: Quiz time <shezmerhant786@gmail.com>
+CLIENT -> SERVER: Subject: Your account has been deleted
+CLIENT -> SERVER: Message-ID: <ac409265a64a61292803ae1170dd4100@localhost>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+CLIENT -> SERVER: 
+CLIENT -> SERVER: <html>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 				<body style="background: #f2f2f2;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: grayscale;">
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 				
+CLIENT -> SERVER: <div style="max-width: 560px;padding: 20px;background: #ffffff;border-radius: 5px;margin:40px auto;font-family: Open Sans,Helvetica,Arial;font-size: 15px;color: #666;">
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 	<div style="color: #444444;font-weight: normal;">
+CLIENT -> SERVER: 		<div style="text-align: center;font-weight:600;font-size:26px;padding: 10px 0;border-bottom: solid 3px #eeeeee;"></div>
+CLIENT -> SERVER: 		
+CLIENT -> SERVER: 		<div style="clear:both"></div>
+CLIENT -> SERVER: 	</div>
+CLIENT -> SERVER: 	
+CLIENT -> SERVER: 	<div style="padding: 0 30px 30px 30px;border-bottom: 3px solid #eeeeee;">
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 		<div style="padding: 30px 0;font-size: 24px;text-align: center;line-height: 40px;">Your account has been deleted.<span style="display: block;">All your personal details and any uploads have been permanently removed.</span></div>
+CLIENT -> SERVER: 		
+CLIENT -> SERVER: 		<div style="padding: 15px;background: #eee;border-radius: 3px;text-align: center;">If your account has been deleted by accident please <a href="mailto:shezmerchant786@gmail.com" style="color: #3ba1da;text-decoration: none">contact us</a>.</div>
+CLIENT -> SERVER: 		
+CLIENT -> SERVER: 	</div>
+CLIENT -> SERVER: 	
+CLIENT -> SERVER: 	<div style="color: #999;padding: 20px 30px">
+CLIENT -> SERVER: 		
+CLIENT -> SERVER: 		<div style="">Thank you!</div>
+CLIENT -> SERVER: 		<div style="">The <a href="http://localhost/finalassignment1/site" style="color: #3ba1da;text-decoration: none;"></a> Team</div>
+CLIENT -> SERVER: 		
+CLIENT -> SERVER: 	</div>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: </div>
+CLIENT -> SERVER: 				</body>
+CLIENT -> SERVER: 				</html>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 			
+CLIENT -> SERVER: 
+CLIENT -> SERVER: .
+CLIENT -> SERVER: QUIT
+CLIENT -> SERVER: EHLO localhost
+CLIENT -> SERVER: STARTTLS
+CLIENT -> SERVER: EHLO localhost
+CLIENT -> SERVER: AUTH CRAM-MD5
+CLIENT -> SERVER: MDY5ODY4OGM4Y2ExNWEgNjUzZDhhYmRmMDdhMWYyMTY5NTk0YTI5ZWViOTYxYjQ=
+CLIENT -> SERVER: MAIL FROM:<shezmerhant786@gmail.com>
+CLIENT -> SERVER: RCPT TO:<abbaslakhani@hotmail.com>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Wed, 9 Oct 2019 09:02:24 +0000
+CLIENT -> SERVER: To: abbaslakhani@hotmail.com
+CLIENT -> SERVER: From: Quiz time <shezmerhant786@gmail.com>
+CLIENT -> SERVER: Subject: Your account has been deleted
+CLIENT -> SERVER: Message-ID: <4d86897f3f0c028026b5a63e76943b51@localhost>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+CLIENT -> SERVER: 
+CLIENT -> SERVER: <html>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 				<body style="background: #f2f2f2;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: grayscale;">
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 				
+CLIENT -> SERVER: <div style="max-width: 560px;padding: 20px;background: #ffffff;border-radius: 5px;margin:40px auto;font-family: Open Sans,Helvetica,Arial;font-size: 15px;color: #666;">
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 	<div style="color: #444444;font-weight: normal;">
+CLIENT -> SERVER: 		<div style="text-align: center;font-weight:600;font-size:26px;padding: 10px 0;border-bottom: solid 3px #eeeeee;"></div>
+CLIENT -> SERVER: 		
+CLIENT -> SERVER: 		<div style="clear:both"></div>
+CLIENT -> SERVER: 	</div>
+CLIENT -> SERVER: 	
+CLIENT -> SERVER: 	<div style="padding: 0 30px 30px 30px;border-bottom: 3px solid #eeeeee;">
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 		<div style="padding: 30px 0;font-size: 24px;text-align: center;line-height: 40px;">Your account has been deleted.<span style="display: block;">All your personal details and any uploads have been permanently removed.</span></div>
+CLIENT -> SERVER: 		
+CLIENT -> SERVER: 		<div style="padding: 15px;background: #eee;border-radius: 3px;text-align: center;">If your account has been deleted by accident please <a href="mailto:shezmerchant786@gmail.com" style="color: #3ba1da;text-decoration: none">contact us</a>.</div>
+CLIENT -> SERVER: 		
+CLIENT -> SERVER: 	</div>
+CLIENT -> SERVER: 	
+CLIENT -> SERVER: 	<div style="color: #999;padding: 20px 30px">
+CLIENT -> SERVER: 		
+CLIENT -> SERVER: 		<div style="">Thank you!</div>
+CLIENT -> SERVER: 		<div style="">The <a href="http://localhost/finalassignment1/site" style="color: #3ba1da;text-decoration: none;"></a> Team</div>
+CLIENT -> SERVER: 		
+CLIENT -> SERVER: 	</div>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: </div>
+CLIENT -> SERVER: 				</body>
+CLIENT -> SERVER: 				</html>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 			
+CLIENT -> SERVER: 
+CLIENT -> SERVER: .
+CLIENT -> SERVER: QUIT
+CLIENT -> SERVER: EHLO localhost
+CLIENT -> SERVER: STARTTLS
+CLIENT -> SERVER: EHLO localhost
+CLIENT -> SERVER: AUTH CRAM-MD5
+CLIENT -> SERVER: MDY5ODY4OGM4Y2ExNWEgZWQwMjRhZmFlZDE2MjU0MGNmOWEyMTI3ODFkOTU3MWU=
+CLIENT -> SERVER: MAIL FROM:<shezmerhant786@gmail.com>
+CLIENT -> SERVER: RCPT TO:<shez_merchant1986@hotmail.com>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Wed, 9 Oct 2019 09:02:41 +0000
+CLIENT -> SERVER: To: shez_merchant1986@hotmail.com
+CLIENT -> SERVER: From: Quiz time <shezmerhant786@gmail.com>
+CLIENT -> SERVER: Subject: Your account has been deleted
+CLIENT -> SERVER: Message-ID: <f3dabb767c27ce060f6041d6687a64e9@localhost>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+CLIENT -> SERVER: 
+CLIENT -> SERVER: <html>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 				<body style="background: #f2f2f2;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: grayscale;">
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 				
+CLIENT -> SERVER: <div style="max-width: 560px;padding: 20px;background: #ffffff;border-radius: 5px;margin:40px auto;font-family: Open Sans,Helvetica,Arial;font-size: 15px;color: #666;">
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 	<div style="color: #444444;font-weight: normal;">
+CLIENT -> SERVER: 		<div style="text-align: center;font-weight:600;font-size:26px;padding: 10px 0;border-bottom: solid 3px #eeeeee;"></div>
+CLIENT -> SERVER: 		
+CLIENT -> SERVER: 		<div style="clear:both"></div>
+CLIENT -> SERVER: 	</div>
+CLIENT -> SERVER: 	
+CLIENT -> SERVER: 	<div style="padding: 0 30px 30px 30px;border-bottom: 3px solid #eeeeee;">
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 		<div style="padding: 30px 0;font-size: 24px;text-align: center;line-height: 40px;">Your account has been deleted.<span style="display: block;">All your personal details and any uploads have been permanently removed.</span></div>
+CLIENT -> SERVER: 		
+CLIENT -> SERVER: 		<div style="padding: 15px;background: #eee;border-radius: 3px;text-align: center;">If your account has been deleted by accident please <a href="mailto:shezmerchant786@gmail.com" style="color: #3ba1da;text-decoration: none">contact us</a>.</div>
+CLIENT -> SERVER: 		
+CLIENT -> SERVER: 	</div>
+CLIENT -> SERVER: 	
+CLIENT -> SERVER: 	<div style="color: #999;padding: 20px 30px">
+CLIENT -> SERVER: 		
+CLIENT -> SERVER: 		<div style="">Thank you!</div>
+CLIENT -> SERVER: 		<div style="">The <a href="http://localhost/finalassignment1/site" style="color: #3ba1da;text-decoration: none;"></a> Team</div>
+CLIENT -> SERVER: 		
+CLIENT -> SERVER: 	</div>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: </div>
+CLIENT -> SERVER: 				</body>
+CLIENT -> SERVER: 				</html>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 			
+CLIENT -> SERVER: 
+CLIENT -> SERVER: .
+CLIENT -> SERVER: QUIT
+CLIENT -> SERVER: EHLO localhost
+CLIENT -> SERVER: STARTTLS
+CLIENT -> SERVER: EHLO localhost
+CLIENT -> SERVER: AUTH CRAM-MD5
+CLIENT -> SERVER: MDY5ODY4OGM4Y2ExNWEgMjcwZTBiZDBiMmNjMmNiZDZkZWZiNGEwMTY4MmZhYzI=
+CLIENT -> SERVER: MAIL FROM:<shezmerhant786@gmail.com>
+CLIENT -> SERVER: RCPT TO:<shezmerchant786@gmail.com>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Wed, 9 Oct 2019 09:04:27 +0000
+CLIENT -> SERVER: To: shezmerchant786@gmail.com
+CLIENT -> SERVER: From: Quiz time <shezmerhant786@gmail.com>
+CLIENT -> SERVER: Subject: [] New user account
+CLIENT -> SERVER: Message-ID: <39aebf759f580b206dd891d0e4ec46f5@localhost>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+CLIENT -> SERVER: 
+CLIENT -> SERVER: <html>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 				<body style="background: #f2f2f2;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: grayscale;">
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 				
+CLIENT -> SERVER: 
+CLIENT -> SERVER: <div style="max-width: 560px;padding: 20px;background: #ffffff;border-radius: 5px;margin:40px auto;font-family: Open Sans,Helvetica,Arial;font-size: 15px;color: #666;">
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 	<div style="color: #444444;font-weight: normal;">
+CLIENT -> SERVER: 		<div style="text-align: center;font-weight:600;font-size:26px;padding: 10px 0;border-bottom: solid 3px #eeeeee;"></div>
+CLIENT -> SERVER: 		
+CLIENT -> SERVER: 		<div style="clear:both"></div>
+CLIENT -> SERVER: 	</div>
+CLIENT -> SERVER: 	
+CLIENT -> SERVER: 	<div style="padding: 0 30px 30px 30px;border-bottom: 3px solid #eeeeee;">
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 		<div style="padding: 30px 0;font-size: 24px;text-align: center;line-height: 40px;">Abbas Ali Lakhani has just created an account on .</span></div>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 		<div style="padding: 10px 0 50px 0;text-align: center;">To view their profile click here: <a href="http://localhost/finalassignment1/site/user/abbasali/" style="color: #3ba1da;text-decoration: none;">http://localhost/finalassignment1/site/user/abbasali/</a></div>
+CLIENT -> SERVER: 		
+CLIENT -> SERVER: 		<div style="padding: 0 0 15px 0;">
+CLIENT -> SERVER: 		
+CLIENT -> SERVER: 			<div style="background: #eee;color: #444;padding: 12px 15px; border-radius: 3px;font-weight: bold;font-size: 16px;">Here is the submitted registration form:<br /><br />
+CLIENT -> SERVER: 				form_id: 5<br />date submitted: 09 Oct 2019 09:03<br />user_login: abbasali<br />first_name: Abbas Ali<br />last_name: Lakhani<br />user_email: shez_merchant1986@hotmail.com<br />
+CLIENT -> SERVER: 			</div>
+CLIENT -> SERVER: 		</div>
+CLIENT -> SERVER: 		
+CLIENT -> SERVER: 	</div>
+CLIENT -> SERVER: 	
+CLIENT -> SERVER: 	<div style="color: #999;padding: 20px 30px">
+CLIENT -> SERVER: 		
+CLIENT -> SERVER: 		<div style="">Thank you!</div>
+CLIENT -> SERVER: 		<div style="">The <a href="http://localhost/finalassignment1/site" style="color: #3ba1da;text-decoration: none;"></a> Team</div>
+CLIENT -> SERVER: 		
+CLIENT -> SERVER: 	</div>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: </div>
+CLIENT -> SERVER: 				</body>
+CLIENT -> SERVER: 				</html>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 			
+CLIENT -> SERVER: 
+CLIENT -> SERVER: .
+CLIENT -> SERVER: QUIT
+Could not access file: CLIENT -> SERVER: EHLO localhost
+CLIENT -> SERVER: STARTTLS
+CLIENT -> SERVER: EHLO localhost
+CLIENT -> SERVER: AUTH CRAM-MD5
+CLIENT -> SERVER: MDY5ODY4OGM4Y2ExNWEgMjljZmE0OWQyNDg2NTk4MDA3ZjNjZTU3ZTZiOTI5NmE=
+CLIENT -> SERVER: MAIL FROM:<shezmerhant786@gmail.com>
+CLIENT -> SERVER: RCPT TO:<shez_merchant1986@hotmail.com>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Wed, 9 Oct 2019 09:04:27 +0000
+CLIENT -> SERVER: To: shez_merchant1986@hotmail.com
+CLIENT -> SERVER: From: Quiz time <shezmerhant786@gmail.com>
+CLIENT -> SERVER: Subject: Welcome to !
+CLIENT -> SERVER: Message-ID: <d27655e28987bbf5d2e83a7618abb977@localhost>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+CLIENT -> SERVER: 
+CLIENT -> SERVER: <html>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 				<body style="background: #f2f2f2;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: grayscale;">
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 				
+CLIENT -> SERVER: <div style="max-width: 560px;padding: 20px;background: #ffffff;border-radius: 5px;margin:40px auto;font-family: Open Sans,Helvetica,Arial;font-size: 15px;color: #666;">
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 	<div style="color: #444444;font-weight: normal;">
+CLIENT -> SERVER: 		<div style="text-align: center;font-weight:600;font-size:26px;padding: 10px 0;border-bottom: solid 3px #eeeeee;"></div>
+CLIENT -> SERVER: 		
+CLIENT -> SERVER: 		<div style="clear:both"></div>
+CLIENT -> SERVER: 	</div>
+CLIENT -> SERVER: 	
+CLIENT -> SERVER: 	<div style="padding: 0 30px 30px 30px;border-bottom: 3px solid #eeeeee;">
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 		<div style="padding: 30px 0;font-size: 24px;text-align: center;line-height: 40px;">Thank you for signing up!<span style="display: block;">Your account is now active.</span></div>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 		<div style="padding: 10px 0 50px 0;text-align: center;"><a href="http://localhost/finalassignment1/site/login/" style="background: #555555;color: #fff;padding: 12px 30px;text-decoration: none;border-radius: 3px;letter-spacing: 0.3px;">Login to our site</a></div>
+CLIENT -> SERVER: 		
+CLIENT -> SERVER: 		<div style="padding:20px;">If you have any problems, please contact us at <a href="mailto:shezmerchant786@gmail.com" style="color: #3ba1da;text-decoration: none">shezmerchant786@gmail.com</a></div>
+CLIENT -> SERVER: 		
+CLIENT -> SERVER: 		
+CLIENT -> SERVER: 	</div>
+CLIENT -> SERVER: 	
+CLIENT -> SERVER: 	<div style="color: #999;padding: 20px 30px">
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 		<div style="">Thank you!</div>
+CLIENT -> SERVER: 		<div style="">The <a href="http://localhost/finalassignment1/site" style="color: #3ba1da;text-decoration: none;"></a> Team</div>
+CLIENT -> SERVER: 		
+CLIENT -> SERVER: 	</div>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: </div>
+CLIENT -> SERVER: 				</body>
+CLIENT -> SERVER: 				</html>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 			
+CLIENT -> SERVER: 
+CLIENT -> SERVER: .
+CLIENT -> SERVER: QUIT
+CLIENT -> SERVER: EHLO localhost
+CLIENT -> SERVER: STARTTLS
+CLIENT -> SERVER: EHLO localhost
+CLIENT -> SERVER: AUTH CRAM-MD5
+CLIENT -> SERVER: MDY5ODY4OGM4Y2ExNWEgZmIxNjE4ODlhZDgwOWYxNGYwMTY1ZWMyNDYwM2Y4ZDg=
+CLIENT -> SERVER: MAIL FROM:<shezmerhant786@gmail.com>
+CLIENT -> SERVER: RCPT TO:<shezmerchant786@gmail.com>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Wed, 9 Oct 2019 09:07:50 +0000
+CLIENT -> SERVER: To: shezmerchant786@gmail.com
+CLIENT -> SERVER: From: WordPress <shezmerhant786@gmail.com>
+CLIENT -> SERVER: Reply-To: Abbas Ali Lakhani <shez_merchant1986@hotmail.com>
+CLIENT -> SERVER: Subject: Quiz results for General Knowledge Quiz
+CLIENT -> SERVER: Message-ID: <21c65550bd5871a75e322e596fe2b3c6@localhost>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+CLIENT -> SERVER: Content-Transfer-Encoding: quoted-printable
+CLIENT -> SERVER: 
+CLIENT -> SERVER: <div class=3D'qmn_question_answer qmn_question_answer_correct'></div><div c=
+CLIENT -> SERVER: lass=3D'qmn_question_answer qmn_question_answer_correct'></div><div class=
+CLIENT -> SERVER: =3D'qmn_question_answer qmn_question_answer_correct'></div><div class=3D'qm=
+CLIENT -> SERVER: n_question_answer qmn_question_answer_correct'></div><div class=3D'qmn_ques=
+CLIENT -> SERVER: tion_answer qmn_question_answer_correct'></div><div class=3D'qmn_question_a=
+CLIENT -> SERVER: nswer qmn_question_answer_correct'></div><div class=3D'qmn_question_answer =
+CLIENT -> SERVER: qmn_question_answer_correct'></div><div class=3D'qmn_question_answer qmn_qu=
+CLIENT -> SERVER: estion_answer_correct'></div><div class=3D'qmn_question_answer qmn_question=
+CLIENT -> SERVER: _answer_correct'></div><div class=3D'qmn_question_answer qmn_question_answe=
+CLIENT -> SERVER: r_correct'></div><div class=3D'qmn_question_answer qmn_question_answer_corr=
+CLIENT -> SERVER: ect'></div><div class=3D'qmn_question_answer qmn_question_answer_correct'><=
+CLIENT -> SERVER: /div><div class=3D'qmn_question_answer qmn_question_answer_correct'></div><=
+CLIENT -> SERVER: div class=3D'qmn_question_answer qmn_question_answer_correct'></div><div cl=
+CLIENT -> SERVER: ass=3D'qmn_question_answer qmn_question_answer_correct'></div><div class=3D=
+CLIENT -> SERVER: 'qmn_question_answer qmn_question_answer_correct'></div><div class=3D'qmn_q=
+CLIENT -> SERVER: uestion_answer qmn_question_answer_correct'></div><div class=3D'qmn_questio=
+CLIENT -> SERVER: n_answer qmn_question_answer_correct'></div><div class=3D'qmn_question_answ=
+CLIENT -> SERVER: er qmn_question_answer_correct'></div><div class=3D'qmn_question_answer qmn=
+CLIENT -> SERVER: _question_answer_correct'></div><div class=3D'qmn_question_answer qmn_quest=
+CLIENT -> SERVER: ion_answer_correct'></div><div class=3D'qmn_question_answer qmn_question_an=
+CLIENT -> SERVER: swer_correct'></div><div class=3D'qmn_question_answer qmn_question_answer_i=
+CLIENT -> SERVER: ncorrect'></div><div class=3D'qmn_question_answer qmn_question_answer_corre=
+CLIENT -> SERVER: ct'></div><div class=3D'qmn_question_answer qmn_question_answer_correct'></=
+CLIENT -> SERVER: div>
+CLIENT -> SERVER: .
+CLIENT -> SERVER: QUIT
+CLIENT -> SERVER: EHLO localhost
+CLIENT -> SERVER: STARTTLS
+CLIENT -> SERVER: EHLO localhost
+CLIENT -> SERVER: AUTH CRAM-MD5
+CLIENT -> SERVER: MDY5ODY4OGM4Y2ExNWEgY2M2MDViMDlkMjFiNmUzMDhhZTlhYzkxN2FhY2UwYjg=
+CLIENT -> SERVER: MAIL FROM:<shezmerhant786@gmail.com>
+CLIENT -> SERVER: RCPT TO:<shezmerchant786@gmail.com>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Wed, 9 Oct 2019 09:16:40 +0000
+CLIENT -> SERVER: To: shezmerchant786@gmail.com
+CLIENT -> SERVER: From: WordPress <shezmerhant786@gmail.com>
+CLIENT -> SERVER: Reply-To: admin <shezmerchant786@gmail.com>
+CLIENT -> SERVER: Subject: Quiz results for General Knowledge Quiz
+CLIENT -> SERVER: Message-ID: <800331b44291f76121446499b782a857@localhost>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+CLIENT -> SERVER: Content-Transfer-Encoding: quoted-printable
+CLIENT -> SERVER: 
+CLIENT -> SERVER: <div class=3D'qmn_question_answer qmn_question_answer_correct'></div><div c=
+CLIENT -> SERVER: lass=3D'qmn_question_answer qmn_question_answer_correct'></div><div class=
+CLIENT -> SERVER: =3D'qmn_question_answer qmn_question_answer_correct'></div><div class=3D'qm=
+CLIENT -> SERVER: n_question_answer qmn_question_answer_correct'></div><div class=3D'qmn_ques=
+CLIENT -> SERVER: tion_answer qmn_question_answer_correct'></div><div class=3D'qmn_question_a=
+CLIENT -> SERVER: nswer qmn_question_answer_correct'></div><div class=3D'qmn_question_answer =
+CLIENT -> SERVER: qmn_question_answer_correct'></div><div class=3D'qmn_question_answer qmn_qu=
+CLIENT -> SERVER: estion_answer_correct'></div><div class=3D'qmn_question_answer qmn_question=
+CLIENT -> SERVER: _answer_correct'></div><div class=3D'qmn_question_answer qmn_question_answe=
+CLIENT -> SERVER: r_correct'></div><div class=3D'qmn_question_answer qmn_question_answer_corr=
+CLIENT -> SERVER: ect'></div><div class=3D'qmn_question_answer qmn_question_answer_correct'><=
+CLIENT -> SERVER: /div><div class=3D'qmn_question_answer qmn_question_answer_correct'></div><=
+CLIENT -> SERVER: div class=3D'qmn_question_answer qmn_question_answer_correct'></div><div cl=
+CLIENT -> SERVER: ass=3D'qmn_question_answer qmn_question_answer_correct'></div><div class=3D=
+CLIENT -> SERVER: 'qmn_question_answer qmn_question_answer_correct'></div><div class=3D'qmn_q=
+CLIENT -> SERVER: uestion_answer qmn_question_answer_correct'></div><div class=3D'qmn_questio=
+CLIENT -> SERVER: n_answer qmn_question_answer_correct'></div><div class=3D'qmn_question_answ=
+CLIENT -> SERVER: er qmn_question_answer_correct'></div><div class=3D'qmn_question_answer qmn=
+CLIENT -> SERVER: _question_answer_correct'></div><div class=3D'qmn_question_answer qmn_quest=
+CLIENT -> SERVER: ion_answer_correct'></div><div class=3D'qmn_question_answer qmn_question_an=
+CLIENT -> SERVER: swer_correct'></div><div class=3D'qmn_question_answer qmn_question_answer_c=
+CLIENT -> SERVER: orrect'></div><div class=3D'qmn_question_answer qmn_question_answer_correct=
+CLIENT -> SERVER: '></div><div class=3D'qmn_question_answer qmn_question_answer_correct'></di=
+CLIENT -> SERVER: v>
+CLIENT -> SERVER: .
+CLIENT -> SERVER: QUIT
+CLIENT -> SERVER: EHLO localhost
+CLIENT -> SERVER: STARTTLS
+CLIENT -> SERVER: EHLO localhost
+CLIENT -> SERVER: AUTH CRAM-MD5
+CLIENT -> SERVER: MDY5ODY4OGM4Y2ExNWEgZDc0ZDE5N2MwZWRiZmNmMzFjMDNlODBmM2MwZjVmYzQ=
+CLIENT -> SERVER: MAIL FROM:<shezmerhant786@gmail.com>
+CLIENT -> SERVER: RCPT TO:<shez_merchant1986@hotmail.com>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Wed, 9 Oct 2019 09:30:41 +0000
+CLIENT -> SERVER: To: shez_merchant1986@hotmail.com
+CLIENT -> SERVER: From: Quiz time <shezmerhant786@gmail.com>
+CLIENT -> SERVER: Subject: Your account has been deleted
+CLIENT -> SERVER: Message-ID: <ffc3da7140226d850b23d4b6391b9dd4@localhost>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+CLIENT -> SERVER: 
+CLIENT -> SERVER: <html>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 				<body style="background: #f2f2f2;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: grayscale;">
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 				
+CLIENT -> SERVER: <div style="max-width: 560px;padding: 20px;background: #ffffff;border-radius: 5px;margin:40px auto;font-family: Open Sans,Helvetica,Arial;font-size: 15px;color: #666;">
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 	<div style="color: #444444;font-weight: normal;">
+CLIENT -> SERVER: 		<div style="text-align: center;font-weight:600;font-size:26px;padding: 10px 0;border-bottom: solid 3px #eeeeee;">General Knowledge Quiz</div>
+CLIENT -> SERVER: 		
+CLIENT -> SERVER: 		<div style="clear:both"></div>
+CLIENT -> SERVER: 	</div>
+CLIENT -> SERVER: 	
+CLIENT -> SERVER: 	<div style="padding: 0 30px 30px 30px;border-bottom: 3px solid #eeeeee;">
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 		<div style="padding: 30px 0;font-size: 24px;text-align: center;line-height: 40px;">Your account has been deleted.<span style="display: block;">All your personal details and any uploads have been permanently removed.</span></div>
+CLIENT -> SERVER: 		
+CLIENT -> SERVER: 		<div style="padding: 15px;background: #eee;border-radius: 3px;text-align: center;">If your account has been deleted by accident please <a href="mailto:shezmerchant786@gmail.com" style="color: #3ba1da;text-decoration: none">contact us</a>.</div>
+CLIENT -> SERVER: 		
+CLIENT -> SERVER: 	</div>
+CLIENT -> SERVER: 	
+CLIENT -> SERVER: 	<div style="color: #999;padding: 20px 30px">
+CLIENT -> SERVER: 		
+CLIENT -> SERVER: 		<div style="">Thank you!</div>
+CLIENT -> SERVER: 		<div style="">The <a href="http://localhost/finalassignment1/site" style="color: #3ba1da;text-decoration: none;">General Knowledge Quiz</a> Team</div>
+CLIENT -> SERVER: 		
+CLIENT -> SERVER: 	</div>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: </div>
+CLIENT -> SERVER: 				</body>
+CLIENT -> SERVER: 				</html>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 			
+CLIENT -> SERVER: 
+CLIENT -> SERVER: .
+CLIENT -> SERVER: QUIT
+CLIENT -> SERVER: EHLO localhost
+CLIENT -> SERVER: STARTTLS
+CLIENT -> SERVER: EHLO localhost
+CLIENT -> SERVER: AUTH CRAM-MD5
+CLIENT -> SERVER: MDY5ODY4OGM4Y2ExNWEgOWM0YjRjMWUwMWQ2YTg4MmZjNTY5ZWVkOTZlOWYxMzA=
+CLIENT -> SERVER: MAIL FROM:<shezmerhant786@gmail.com>
+CLIENT -> SERVER: RCPT TO:<shezmerchant786@gmail.com>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Wed, 9 Oct 2019 09:32:08 +0000
+CLIENT -> SERVER: To: shezmerchant786@gmail.com
+CLIENT -> SERVER: From: Quiz time <shezmerhant786@gmail.com>
+CLIENT -> SERVER: Subject: [General Knowledge Quiz] New user account
+CLIENT -> SERVER: Message-ID: <0bfcc25cbb7e649edf7d1a5100a67603@localhost>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+CLIENT -> SERVER: 
+CLIENT -> SERVER: <html>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 				<body style="background: #f2f2f2;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: grayscale;">
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 				
+CLIENT -> SERVER: 
+CLIENT -> SERVER: <div style="max-width: 560px;padding: 20px;background: #ffffff;border-radius: 5px;margin:40px auto;font-family: Open Sans,Helvetica,Arial;font-size: 15px;color: #666;">
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 	<div style="color: #444444;font-weight: normal;">
+CLIENT -> SERVER: 		<div style="text-align: center;font-weight:600;font-size:26px;padding: 10px 0;border-bottom: solid 3px #eeeeee;">General Knowledge Quiz</div>
+CLIENT -> SERVER: 		
+CLIENT -> SERVER: 		<div style="clear:both"></div>
+CLIENT -> SERVER: 	</div>
+CLIENT -> SERVER: 	
+CLIENT -> SERVER: 	<div style="padding: 0 30px 30px 30px;border-bottom: 3px solid #eeeeee;">
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 		<div style="padding: 30px 0;font-size: 24px;text-align: center;line-height: 40px;">Abbas Lakhani has just created an account on General Knowledge Quiz.</span></div>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 		<div style="padding: 10px 0 50px 0;text-align: center;">To view their profile click here: <a href="http://localhost/finalassignment1/site/user/abbasali/" style="color: #3ba1da;text-decoration: none;">http://localhost/finalassignment1/site/user/abbasali/</a></div>
+CLIENT -> SERVER: 		
+CLIENT -> SERVER: 		<div style="padding: 0 0 15px 0;">
+CLIENT -> SERVER: 		
+CLIENT -> SERVER: 			<div style="background: #eee;color: #444;padding: 12px 15px; border-radius: 3px;font-weight: bold;font-size: 16px;">Here is the submitted registration form:<br /><br />
+CLIENT -> SERVER: 				form_id: 5<br />date submitted: 09 Oct 2019 09:31<br />user_login: abbasali<br />first_name: Abbas<br />last_name: Lakhani<br />user_email: shez_merchant1986@hotmail.com<br />
+CLIENT -> SERVER: 			</div>
+CLIENT -> SERVER: 		</div>
+CLIENT -> SERVER: 		
+CLIENT -> SERVER: 	</div>
+CLIENT -> SERVER: 	
+CLIENT -> SERVER: 	<div style="color: #999;padding: 20px 30px">
+CLIENT -> SERVER: 		
+CLIENT -> SERVER: 		<div style="">Thank you!</div>
+CLIENT -> SERVER: 		<div style="">The <a href="http://localhost/finalassignment1/site" style="color: #3ba1da;text-decoration: none;">General Knowledge Quiz</a> Team</div>
+CLIENT -> SERVER: 		
+CLIENT -> SERVER: 	</div>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: </div>
+CLIENT -> SERVER: 				</body>
+CLIENT -> SERVER: 				</html>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 			
+CLIENT -> SERVER: 
+CLIENT -> SERVER: .
+CLIENT -> SERVER: QUIT
+Could not access file: CLIENT -> SERVER: EHLO localhost
+CLIENT -> SERVER: STARTTLS
+CLIENT -> SERVER: EHLO localhost
+CLIENT -> SERVER: AUTH CRAM-MD5
+CLIENT -> SERVER: MDY5ODY4OGM4Y2ExNWEgN2M5YjllZWJhYWI4ZmYzYzZkMDE1OWJlMmI1NGYzY2Q=
+CLIENT -> SERVER: MAIL FROM:<shezmerhant786@gmail.com>
+CLIENT -> SERVER: RCPT TO:<shez_merchant1986@hotmail.com>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Wed, 9 Oct 2019 09:32:08 +0000
+CLIENT -> SERVER: To: shez_merchant1986@hotmail.com
+CLIENT -> SERVER: From: Quiz time <shezmerhant786@gmail.com>
+CLIENT -> SERVER: Subject: Welcome to General Knowledge Quiz!
+CLIENT -> SERVER: Message-ID: <2c49767f5df501eaa5294a920d9c264d@localhost>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+CLIENT -> SERVER: 
+CLIENT -> SERVER: <html>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 				<body style="background: #f2f2f2;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: grayscale;">
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 				
+CLIENT -> SERVER: <div style="max-width: 560px;padding: 20px;background: #ffffff;border-radius: 5px;margin:40px auto;font-family: Open Sans,Helvetica,Arial;font-size: 15px;color: #666;">
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 	<div style="color: #444444;font-weight: normal;">
+CLIENT -> SERVER: 		<div style="text-align: center;font-weight:600;font-size:26px;padding: 10px 0;border-bottom: solid 3px #eeeeee;">General Knowledge Quiz</div>
+CLIENT -> SERVER: 		
+CLIENT -> SERVER: 		<div style="clear:both"></div>
+CLIENT -> SERVER: 	</div>
+CLIENT -> SERVER: 	
+CLIENT -> SERVER: 	<div style="padding: 0 30px 30px 30px;border-bottom: 3px solid #eeeeee;">
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 		<div style="padding: 30px 0;font-size: 24px;text-align: center;line-height: 40px;">Thank you for signing up!<span style="display: block;">Your account is now active.</span></div>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 		<div style="padding: 10px 0 50px 0;text-align: center;"><a href="http://localhost/finalassignment1/site/login/" style="background: #555555;color: #fff;padding: 12px 30px;text-decoration: none;border-radius: 3px;letter-spacing: 0.3px;">Login to our site</a></div>
+CLIENT -> SERVER: 		
+CLIENT -> SERVER: 		<div style="padding:20px;">If you have any problems, please contact us at <a href="mailto:shezmerchant786@gmail.com" style="color: #3ba1da;text-decoration: none">shezmerchant786@gmail.com</a></div>
+CLIENT -> SERVER: 		
+CLIENT -> SERVER: 		
+CLIENT -> SERVER: 	</div>
+CLIENT -> SERVER: 	
+CLIENT -> SERVER: 	<div style="color: #999;padding: 20px 30px">
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 		<div style="">Thank you!</div>
+CLIENT -> SERVER: 		<div style="">The <a href="http://localhost/finalassignment1/site" style="color: #3ba1da;text-decoration: none;">General Knowledge Quiz</a> Team</div>
+CLIENT -> SERVER: 		
+CLIENT -> SERVER: 	</div>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: </div>
+CLIENT -> SERVER: 				</body>
+CLIENT -> SERVER: 				</html>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 			
+CLIENT -> SERVER: 
+CLIENT -> SERVER: .
+CLIENT -> SERVER: QUIT
+CLIENT -> SERVER: EHLO localhost
+CLIENT -> SERVER: STARTTLS
+CLIENT -> SERVER: EHLO localhost
+CLIENT -> SERVER: AUTH CRAM-MD5
+CLIENT -> SERVER: MDY5ODY4OGM4Y2ExNWEgNjM3NTQyN2Q5ZTc2N2VhYjVlOWFlMDY4NDQ4ZTRlMmI=
+CLIENT -> SERVER: MAIL FROM:<shezmerhant786@gmail.com>
+CLIENT -> SERVER: RCPT TO:<shezmerchant786@gmail.com>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Wed, 9 Oct 2019 09:32:59 +0000
+CLIENT -> SERVER: To: shezmerchant786@gmail.com
+CLIENT -> SERVER: From: WordPress <shezmerhant786@gmail.com>
+CLIENT -> SERVER: Reply-To: Abbas Lakhani <shez_merchant1986@hotmail.com>
+CLIENT -> SERVER: Subject: Quiz results for General Knowledge Quiz
+CLIENT -> SERVER: Message-ID: <490af8b2eddde64bb05b7f71942dcab6@localhost>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+CLIENT -> SERVER: Content-Transfer-Encoding: quoted-printable
+CLIENT -> SERVER: 
+CLIENT -> SERVER: <div class=3D'qmn_question_answer qmn_question_answer_incorrect'></div><div=
+CLIENT -> SERVER:  class=3D'qmn_question_answer qmn_question_answer_incorrect'></div><div cla=
+CLIENT -> SERVER: ss=3D'qmn_question_answer qmn_question_answer_incorrect'></div><div class=
+CLIENT -> SERVER: =3D'qmn_question_answer qmn_question_answer_incorrect'></div><div class=3D'=
+CLIENT -> SERVER: qmn_question_answer qmn_question_answer_incorrect'></div><div class=3D'qmn_=
+CLIENT -> SERVER: question_answer qmn_question_answer_incorrect'></div><div class=3D'qmn_ques=
+CLIENT -> SERVER: tion_answer qmn_question_answer_incorrect'></div><div class=3D'qmn_question=
+CLIENT -> SERVER: _answer qmn_question_answer_incorrect'></div><div class=3D'qmn_question_ans=
+CLIENT -> SERVER: wer qmn_question_answer_incorrect'></div><div class=3D'qmn_question_answer =
+CLIENT -> SERVER: qmn_question_answer_incorrect'></div><div class=3D'qmn_question_answer qmn_=
+CLIENT -> SERVER: question_answer_incorrect'></div><div class=3D'qmn_question_answer qmn_ques=
+CLIENT -> SERVER: tion_answer_incorrect'></div><div class=3D'qmn_question_answer qmn_question=
+CLIENT -> SERVER: _answer_incorrect'></div><div class=3D'qmn_question_answer qmn_question_ans=
+CLIENT -> SERVER: wer_incorrect'></div><div class=3D'qmn_question_answer qmn_question_answer_=
+CLIENT -> SERVER: incorrect'></div><div class=3D'qmn_question_answer qmn_question_answer_inco=
+CLIENT -> SERVER: rrect'></div><div class=3D'qmn_question_answer qmn_question_answer_incorrec=
+CLIENT -> SERVER: t'></div><div class=3D'qmn_question_answer qmn_question_answer_incorrect'><=
+CLIENT -> SERVER: /div><div class=3D'qmn_question_answer qmn_question_answer_incorrect'></div=
+CLIENT -> SERVER: ><div class=3D'qmn_question_answer qmn_question_answer_incorrect'></div><di=
+CLIENT -> SERVER: v class=3D'qmn_question_answer qmn_question_answer_incorrect'></div><div cl=
+CLIENT -> SERVER: ass=3D'qmn_question_answer qmn_question_answer_incorrect'></div><div class=
+CLIENT -> SERVER: =3D'qmn_question_answer qmn_question_answer_incorrect'></div><div class=3D'=
+CLIENT -> SERVER: qmn_question_answer qmn_question_answer_incorrect'></div><div class=3D'qmn_=
+CLIENT -> SERVER: question_answer qmn_question_answer_incorrect'></div>
+CLIENT -> SERVER: .
+CLIENT -> SERVER: QUIT
+CLIENT -> SERVER: EHLO localhost
+CLIENT -> SERVER: STARTTLS
+CLIENT -> SERVER: EHLO localhost
+CLIENT -> SERVER: AUTH CRAM-MD5
+CLIENT -> SERVER: MDY5ODY4OGM4Y2ExNWEgNmExY2JiZGEzZmNmNGMzMGI5Y2M0YWM5NTExMDRmMTM=
+CLIENT -> SERVER: MAIL FROM:<shezmerhant786@gmail.com>
+CLIENT -> SERVER: RCPT TO:<shezmerchant786@gmail.com>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Wed, 9 Oct 2019 11:10:09 +0000
+CLIENT -> SERVER: To: shezmerchant786@gmail.com
+CLIENT -> SERVER: From: WordPress <shezmerhant786@gmail.com>
+CLIENT -> SERVER: Reply-To: admin <shezmerchant786@gmail.com>
+CLIENT -> SERVER: Subject: Quiz results for General Knowledge Quiz
+CLIENT -> SERVER: Message-ID: <5cd08818946d845b96ad5633d67d4993@localhost>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+CLIENT -> SERVER: Content-Transfer-Encoding: quoted-printable
+CLIENT -> SERVER: 
+CLIENT -> SERVER: <div class=3D'qmn_question_answer qmn_question_answer_correct'></div><div c=
+CLIENT -> SERVER: lass=3D'qmn_question_answer qmn_question_answer_correct'></div><div class=
+CLIENT -> SERVER: =3D'qmn_question_answer qmn_question_answer_correct'></div><div class=3D'qm=
+CLIENT -> SERVER: n_question_answer qmn_question_answer_correct'></div><div class=3D'qmn_ques=
+CLIENT -> SERVER: tion_answer qmn_question_answer_correct'></div><div class=3D'qmn_question_a=
+CLIENT -> SERVER: nswer qmn_question_answer_correct'></div><div class=3D'qmn_question_answer =
+CLIENT -> SERVER: qmn_question_answer_correct'></div><div class=3D'qmn_question_answer qmn_qu=
+CLIENT -> SERVER: estion_answer_correct'></div><div class=3D'qmn_question_answer qmn_question=
+CLIENT -> SERVER: _answer_correct'></div><div class=3D'qmn_question_answer qmn_question_answe=
+CLIENT -> SERVER: r_correct'></div><div class=3D'qmn_question_answer qmn_question_answer_corr=
+CLIENT -> SERVER: ect'></div><div class=3D'qmn_question_answer qmn_question_answer_correct'><=
+CLIENT -> SERVER: /div><div class=3D'qmn_question_answer qmn_question_answer_correct'></div><=
+CLIENT -> SERVER: div class=3D'qmn_question_answer qmn_question_answer_correct'></div><div cl=
+CLIENT -> SERVER: ass=3D'qmn_question_answer qmn_question_answer_correct'></div><div class=3D=
+CLIENT -> SERVER: 'qmn_question_answer qmn_question_answer_correct'></div><div class=3D'qmn_q=
+CLIENT -> SERVER: uestion_answer qmn_question_answer_correct'></div><div class=3D'qmn_questio=
+CLIENT -> SERVER: n_answer qmn_question_answer_correct'></div><div class=3D'qmn_question_answ=
+CLIENT -> SERVER: er qmn_question_answer_correct'></div><div class=3D'qmn_question_answer qmn=
+CLIENT -> SERVER: _question_answer_correct'></div><div class=3D'qmn_question_answer qmn_quest=
+CLIENT -> SERVER: ion_answer_correct'></div><div class=3D'qmn_question_answer qmn_question_an=
+CLIENT -> SERVER: swer_correct'></div><div class=3D'qmn_question_answer qmn_question_answer_c=
+CLIENT -> SERVER: orrect'></div><div class=3D'qmn_question_answer qmn_question_answer_correct=
+CLIENT -> SERVER: '></div><div class=3D'qmn_question_answer qmn_question_answer_correct'></di=
+CLIENT -> SERVER: v><div class=3D'qmn_question_answer qmn_question_answer_correct'></div><div=
+CLIENT -> SERVER:  class=3D'qmn_question_answer qmn_question_answer_correct'></div><div class=
+CLIENT -> SERVER: =3D'qmn_question_answer qmn_question_answer_correct'></div><div class=3D'qm=
+CLIENT -> SERVER: n_question_answer qmn_question_answer_correct'></div><div class=3D'qmn_ques=
+CLIENT -> SERVER: tion_answer qmn_question_answer_correct'></div>
+CLIENT -> SERVER: .
+CLIENT -> SERVER: QUIT
+CLIENT -> SERVER: EHLO localhost
+CLIENT -> SERVER: STARTTLS
+CLIENT -> SERVER: EHLO localhost
+CLIENT -> SERVER: AUTH CRAM-MD5
+CLIENT -> SERVER: MDY5ODY4OGM4Y2ExNWEgN2NmMTI2YThlZDUxODViYjUyMGQ3ZWNlNjQzODljNzU=
+CLIENT -> SERVER: MAIL FROM:<shezmerhant786@gmail.com>
+CLIENT -> SERVER: RCPT TO:<shezmerchant786@gmail.com>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Wed, 9 Oct 2019 11:14:58 +0000
+CLIENT -> SERVER: To: shezmerchant786@gmail.com
+CLIENT -> SERVER: From: WordPress <shezmerhant786@gmail.com>
+CLIENT -> SERVER: Reply-To: Abbas Lakhani <shez_merchant1986@hotmail.com>
+CLIENT -> SERVER: Subject: Quiz results for General Knowledge Quiz
+CLIENT -> SERVER: Message-ID: <fae29cb56e6c2cde438f4940ef8a0218@localhost>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+CLIENT -> SERVER: Content-Transfer-Encoding: quoted-printable
+CLIENT -> SERVER: 
+CLIENT -> SERVER: <div class=3D'qmn_question_answer qmn_question_answer_correct'></div><div c=
+CLIENT -> SERVER: lass=3D'qmn_question_answer qmn_question_answer_correct'></div><div class=
+CLIENT -> SERVER: =3D'qmn_question_answer qmn_question_answer_correct'></div><div class=3D'qm=
+CLIENT -> SERVER: n_question_answer qmn_question_answer_correct'></div><div class=3D'qmn_ques=
+CLIENT -> SERVER: tion_answer qmn_question_answer_correct'></div><div class=3D'qmn_question_a=
+CLIENT -> SERVER: nswer qmn_question_answer_correct'></div><div class=3D'qmn_question_answer =
+CLIENT -> SERVER: qmn_question_answer_correct'></div><div class=3D'qmn_question_answer qmn_qu=
+CLIENT -> SERVER: estion_answer_correct'></div><div class=3D'qmn_question_answer qmn_question=
+CLIENT -> SERVER: _answer_correct'></div><div class=3D'qmn_question_answer qmn_question_answe=
+CLIENT -> SERVER: r_correct'></div><div class=3D'qmn_question_answer qmn_question_answer_corr=
+CLIENT -> SERVER: ect'></div><div class=3D'qmn_question_answer qmn_question_answer_correct'><=
+CLIENT -> SERVER: /div><div class=3D'qmn_question_answer qmn_question_answer_correct'></div><=
+CLIENT -> SERVER: div class=3D'qmn_question_answer qmn_question_answer_correct'></div><div cl=
+CLIENT -> SERVER: ass=3D'qmn_question_answer qmn_question_answer_correct'></div><div class=3D=
+CLIENT -> SERVER: 'qmn_question_answer qmn_question_answer_correct'></div><div class=3D'qmn_q=
+CLIENT -> SERVER: uestion_answer qmn_question_answer_correct'></div><div class=3D'qmn_questio=
+CLIENT -> SERVER: n_answer qmn_question_answer_correct'></div><div class=3D'qmn_question_answ=
+CLIENT -> SERVER: er qmn_question_answer_correct'></div><div class=3D'qmn_question_answer qmn=
+CLIENT -> SERVER: _question_answer_correct'></div><div class=3D'qmn_question_answer qmn_quest=
+CLIENT -> SERVER: ion_answer_correct'></div><div class=3D'qmn_question_answer qmn_question_an=
+CLIENT -> SERVER: swer_correct'></div><div class=3D'qmn_question_answer qmn_question_answer_c=
+CLIENT -> SERVER: orrect'></div><div class=3D'qmn_question_answer qmn_question_answer_correct=
+CLIENT -> SERVER: '></div><div class=3D'qmn_question_answer qmn_question_answer_correct'></di=
+CLIENT -> SERVER: v><div class=3D'qmn_question_answer qmn_question_answer_correct'></div><div=
+CLIENT -> SERVER:  class=3D'qmn_question_answer qmn_question_answer_correct'></div><div class=
+CLIENT -> SERVER: =3D'qmn_question_answer qmn_question_answer_correct'></div><div class=3D'qm=
+CLIENT -> SERVER: n_question_answer qmn_question_answer_correct'></div><div class=3D'qmn_ques=
+CLIENT -> SERVER: tion_answer qmn_question_answer_correct'></div>
+CLIENT -> SERVER: .
+CLIENT -> SERVER: QUIT
+CLIENT -> SERVER: EHLO localhost
+CLIENT -> SERVER: STARTTLS
+CLIENT -> SERVER: EHLO localhost
+CLIENT -> SERVER: AUTH CRAM-MD5
+CLIENT -> SERVER: MDY5ODY4OGM4Y2ExNWEgNjI1ZDdiMmJmNTMxMjgxNjA1NjVkZjk5NzE0NDUwY2I=
+CLIENT -> SERVER: MAIL FROM:<shezmerhant786@gmail.com>
+CLIENT -> SERVER: RCPT TO:<shezmerchant786@gmail.com>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Wed, 9 Oct 2019 11:20:56 +0000
+CLIENT -> SERVER: To: shezmerchant786@gmail.com
+CLIENT -> SERVER: From: WordPress <shezmerhant786@gmail.com>
+CLIENT -> SERVER: Reply-To: Abbas Lakhani <shez_merchant1986@hotmail.com>
+CLIENT -> SERVER: Subject: Quiz results for General Knowledge Quiz
+CLIENT -> SERVER: Message-ID: <64a4b94ed56bacd61ab6cfc890c89fa0@localhost>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+CLIENT -> SERVER: Content-Transfer-Encoding: quoted-printable
+CLIENT -> SERVER: 
+CLIENT -> SERVER: <div class=3D'qmn_question_answer qmn_question_answer_incorrect'></div><div=
+CLIENT -> SERVER:  class=3D'qmn_question_answer qmn_question_answer_correct'></div><div class=
+CLIENT -> SERVER: =3D'qmn_question_answer qmn_question_answer_correct'></div><div class=3D'qm=
+CLIENT -> SERVER: n_question_answer qmn_question_answer_incorrect'></div><div class=3D'qmn_qu=
+CLIENT -> SERVER: estion_answer qmn_question_answer_correct'></div><div class=3D'qmn_question=
+CLIENT -> SERVER: _answer qmn_question_answer_correct'></div><div class=3D'qmn_question_answe=
+CLIENT -> SERVER: r qmn_question_answer_correct'></div><div class=3D'qmn_question_answer qmn_=
+CLIENT -> SERVER: question_answer_correct'></div><div class=3D'qmn_question_answer qmn_questi=
+CLIENT -> SERVER: on_answer_correct'></div><div class=3D'qmn_question_answer qmn_question_ans=
+CLIENT -> SERVER: wer_correct'></div><div class=3D'qmn_question_answer qmn_question_answer_co=
+CLIENT -> SERVER: rrect'></div><div class=3D'qmn_question_answer qmn_question_answer_correct'=
+CLIENT -> SERVER: ></div><div class=3D'qmn_question_answer qmn_question_answer_correct'></div=
+CLIENT -> SERVER: ><div class=3D'qmn_question_answer qmn_question_answer_correct'></div><div =
+CLIENT -> SERVER: class=3D'qmn_question_answer qmn_question_answer_correct'></div><div class=
+CLIENT -> SERVER: =3D'qmn_question_answer qmn_question_answer_correct'></div><div class=3D'qm=
+CLIENT -> SERVER: n_question_answer qmn_question_answer_correct'></div><div class=3D'qmn_ques=
+CLIENT -> SERVER: tion_answer qmn_question_answer_correct'></div><div class=3D'qmn_question_a=
+CLIENT -> SERVER: nswer qmn_question_answer_correct'></div><div class=3D'qmn_question_answer =
+CLIENT -> SERVER: qmn_question_answer_correct'></div><div class=3D'qmn_question_answer qmn_qu=
+CLIENT -> SERVER: estion_answer_correct'></div><div class=3D'qmn_question_answer qmn_question=
+CLIENT -> SERVER: _answer_incorrect'></div><div class=3D'qmn_question_answer qmn_question_ans=
+CLIENT -> SERVER: wer_correct'></div><div class=3D'qmn_question_answer qmn_question_answer_co=
+CLIENT -> SERVER: rrect'></div><div class=3D'qmn_question_answer qmn_question_answer_correct'=
+CLIENT -> SERVER: ></div><div class=3D'qmn_question_answer qmn_question_answer_correct'></div=
+CLIENT -> SERVER: ><div class=3D'qmn_question_answer qmn_question_answer_correct'></div><div =
+CLIENT -> SERVER: class=3D'qmn_question_answer qmn_question_answer_incorrect'></div><div clas=
+CLIENT -> SERVER: s=3D'qmn_question_answer qmn_question_answer_correct'></div><div class=3D'q=
+CLIENT -> SERVER: mn_question_answer qmn_question_answer_incorrect'></div>
+CLIENT -> SERVER: .
+CLIENT -> SERVER: QUIT
+CLIENT -> SERVER: EHLO localhost
+CLIENT -> SERVER: STARTTLS
+CLIENT -> SERVER: EHLO localhost
+CLIENT -> SERVER: AUTH CRAM-MD5
+CLIENT -> SERVER: MDY5ODY4OGM4Y2ExNWEgZTEwMGFkZGQ3OTFlNjNmZDE0NjA0MTE5NzNmODc0ZmQ=
+CLIENT -> SERVER: MAIL FROM:<shezmerhant786@gmail.com>
+CLIENT -> SERVER: RCPT TO:<shez_merchant1986@hotmail.com>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Wed, 9 Oct 2019 11:22:00 +0000
+CLIENT -> SERVER: To: shez_merchant1986@hotmail.com
+CLIENT -> SERVER: From: Quiz time <shezmerhant786@gmail.com>
+CLIENT -> SERVER: Subject: Your account has been deleted
+CLIENT -> SERVER: Message-ID: <eec77e0c92d112193f7823a67d4f6fb4@localhost>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+CLIENT -> SERVER: 
+CLIENT -> SERVER: <html>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 				<body style="background: #f2f2f2;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: grayscale;">
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 				
+CLIENT -> SERVER: <div style="max-width: 560px;padding: 20px;background: #ffffff;border-radius: 5px;margin:40px auto;font-family: Open Sans,Helvetica,Arial;font-size: 15px;color: #666;">
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 	<div style="color: #444444;font-weight: normal;">
+CLIENT -> SERVER: 		<div style="text-align: center;font-weight:600;font-size:26px;padding: 10px 0;border-bottom: solid 3px #eeeeee;">General Knowledge Quiz</div>
+CLIENT -> SERVER: 		
+CLIENT -> SERVER: 		<div style="clear:both"></div>
+CLIENT -> SERVER: 	</div>
+CLIENT -> SERVER: 	
+CLIENT -> SERVER: 	<div style="padding: 0 30px 30px 30px;border-bottom: 3px solid #eeeeee;">
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 		<div style="padding: 30px 0;font-size: 24px;text-align: center;line-height: 40px;">Your account has been deleted.<span style="display: block;">All your personal details and any uploads have been permanently removed.</span></div>
+CLIENT -> SERVER: 		
+CLIENT -> SERVER: 		<div style="padding: 15px;background: #eee;border-radius: 3px;text-align: center;">If your account has been deleted by accident please <a href="mailto:shezmerchant786@gmail.com" style="color: #3ba1da;text-decoration: none">contact us</a>.</div>
+CLIENT -> SERVER: 		
+CLIENT -> SERVER: 	</div>
+CLIENT -> SERVER: 	
+CLIENT -> SERVER: 	<div style="color: #999;padding: 20px 30px">
+CLIENT -> SERVER: 		
+CLIENT -> SERVER: 		<div style="">Thank you!</div>
+CLIENT -> SERVER: 		<div style="">The <a href="http://localhost/finalassignment1/site" style="color: #3ba1da;text-decoration: none;">General Knowledge Quiz</a> Team</div>
+CLIENT -> SERVER: 		
+CLIENT -> SERVER: 	</div>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: </div>
+CLIENT -> SERVER: 				</body>
+CLIENT -> SERVER: 				</html>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 			
+CLIENT -> SERVER: 
+CLIENT -> SERVER: .
+CLIENT -> SERVER: QUIT
+CLIENT -> SERVER: EHLO localhost
+CLIENT -> SERVER: STARTTLS
+CLIENT -> SERVER: EHLO localhost
+CLIENT -> SERVER: AUTH CRAM-MD5
+CLIENT -> SERVER: MDY5ODY4OGM4Y2ExNWEgM2IzZmUzYWQ2Y2Q3NzFmZDk1NTAzYmY4Mjg2N2MxYWM=
+CLIENT -> SERVER: MAIL FROM:<shezmerhant786@gmail.com>
+CLIENT -> SERVER: RCPT TO:<shezmerchant786@gmail.com>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Wed, 9 Oct 2019 11:25:05 +0000
+CLIENT -> SERVER: To: shezmerchant786@gmail.com
+CLIENT -> SERVER: From: Quiz time <shezmerhant786@gmail.com>
+CLIENT -> SERVER: Subject: [General Knowledge Quiz] New user account
+CLIENT -> SERVER: Message-ID: <b759dfa37d8ad1bcfec42a34b8bb188f@localhost>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+CLIENT -> SERVER: 
+CLIENT -> SERVER: <html>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 				<body style="background: #f2f2f2;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: grayscale;">
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 				
+CLIENT -> SERVER: 
+CLIENT -> SERVER: <div style="max-width: 560px;padding: 20px;background: #ffffff;border-radius: 5px;margin:40px auto;font-family: Open Sans,Helvetica,Arial;font-size: 15px;color: #666;">
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 	<div style="color: #444444;font-weight: normal;">
+CLIENT -> SERVER: 		<div style="text-align: center;font-weight:600;font-size:26px;padding: 10px 0;border-bottom: solid 3px #eeeeee;">General Knowledge Quiz</div>
+CLIENT -> SERVER: 		
+CLIENT -> SERVER: 		<div style="clear:both"></div>
+CLIENT -> SERVER: 	</div>
+CLIENT -> SERVER: 	
+CLIENT -> SERVER: 	<div style="padding: 0 30px 30px 30px;border-bottom: 3px solid #eeeeee;">
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 		<div style="padding: 30px 0;font-size: 24px;text-align: center;line-height: 40px;">Abbas Lakhani has just created an account on General Knowledge Quiz.</span></div>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 		<div style="padding: 10px 0 50px 0;text-align: center;">To view their profile click here: <a href="http://localhost/finalassignment1/site/user/abbasali/" style="color: #3ba1da;text-decoration: none;">http://localhost/finalassignment1/site/user/abbasali/</a></div>
+CLIENT -> SERVER: 		
+CLIENT -> SERVER: 		<div style="padding: 0 0 15px 0;">
+CLIENT -> SERVER: 		
+CLIENT -> SERVER: 			<div style="background: #eee;color: #444;padding: 12px 15px; border-radius: 3px;font-weight: bold;font-size: 16px;">Here is the submitted registration form:<br /><br />
+CLIENT -> SERVER: 				form_id: 5<br />date submitted: 09 Oct 2019 11:24<br />user_login: abbasali<br />first_name: Abbas<br />last_name: Lakhani<br />user_email: shez_merchant1986@hotmail.com<br />
+CLIENT -> SERVER: 			</div>
+CLIENT -> SERVER: 		</div>
+CLIENT -> SERVER: 		
+CLIENT -> SERVER: 	</div>
+CLIENT -> SERVER: 	
+CLIENT -> SERVER: 	<div style="color: #999;padding: 20px 30px">
+CLIENT -> SERVER: 		
+CLIENT -> SERVER: 		<div style="">Thank you!</div>
+CLIENT -> SERVER: 		<div style="">The <a href="http://localhost/finalassignment1/site" style="color: #3ba1da;text-decoration: none;">General Knowledge Quiz</a> Team</div>
+CLIENT -> SERVER: 		
+CLIENT -> SERVER: 	</div>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: </div>
+CLIENT -> SERVER: 				</body>
+CLIENT -> SERVER: 				</html>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 			
+CLIENT -> SERVER: 
+CLIENT -> SERVER: .
+CLIENT -> SERVER: QUIT
+Could not access file: CLIENT -> SERVER: EHLO localhost
+CLIENT -> SERVER: STARTTLS
+CLIENT -> SERVER: EHLO localhost
+CLIENT -> SERVER: AUTH CRAM-MD5
+CLIENT -> SERVER: MDY5ODY4OGM4Y2ExNWEgMjg0Njk3NDM2NDA4ZmM5MzE2Y2M2NzA3NmJmOWU4Y2U=
+CLIENT -> SERVER: MAIL FROM:<shezmerhant786@gmail.com>
+CLIENT -> SERVER: RCPT TO:<shez_merchant1986@hotmail.com>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Wed, 9 Oct 2019 11:25:05 +0000
+CLIENT -> SERVER: To: shez_merchant1986@hotmail.com
+CLIENT -> SERVER: From: Quiz time <shezmerhant786@gmail.com>
+CLIENT -> SERVER: Subject: Welcome to General Knowledge Quiz!
+CLIENT -> SERVER: Message-ID: <0872ccbffe93250210073cda89d9492c@localhost>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+CLIENT -> SERVER: 
+CLIENT -> SERVER: <html>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 				<body style="background: #f2f2f2;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: grayscale;">
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 				
+CLIENT -> SERVER: <div style="max-width: 560px;padding: 20px;background: #ffffff;border-radius: 5px;margin:40px auto;font-family: Open Sans,Helvetica,Arial;font-size: 15px;color: #666;">
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 	<div style="color: #444444;font-weight: normal;">
+CLIENT -> SERVER: 		<div style="text-align: center;font-weight:600;font-size:26px;padding: 10px 0;border-bottom: solid 3px #eeeeee;">General Knowledge Quiz</div>
+CLIENT -> SERVER: 		
+CLIENT -> SERVER: 		<div style="clear:both"></div>
+CLIENT -> SERVER: 	</div>
+CLIENT -> SERVER: 	
+CLIENT -> SERVER: 	<div style="padding: 0 30px 30px 30px;border-bottom: 3px solid #eeeeee;">
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 		<div style="padding: 30px 0;font-size: 24px;text-align: center;line-height: 40px;">Thank you for signing up!<span style="display: block;">Your account is now active.</span></div>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 		<div style="padding: 10px 0 50px 0;text-align: center;"><a href="http://localhost/finalassignment1/site/login/" style="background: #555555;color: #fff;padding: 12px 30px;text-decoration: none;border-radius: 3px;letter-spacing: 0.3px;">Login to our site</a></div>
+CLIENT -> SERVER: 		
+CLIENT -> SERVER: 		<div style="padding:20px;">If you have any problems, please contact us at <a href="mailto:shezmerchant786@gmail.com" style="color: #3ba1da;text-decoration: none">shezmerchant786@gmail.com</a></div>
+CLIENT -> SERVER: 		
+CLIENT -> SERVER: 		
+CLIENT -> SERVER: 	</div>
+CLIENT -> SERVER: 	
+CLIENT -> SERVER: 	<div style="color: #999;padding: 20px 30px">
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 		<div style="">Thank you!</div>
+CLIENT -> SERVER: 		<div style="">The <a href="http://localhost/finalassignment1/site" style="color: #3ba1da;text-decoration: none;">General Knowledge Quiz</a> Team</div>
+CLIENT -> SERVER: 		
+CLIENT -> SERVER: 	</div>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: </div>
+CLIENT -> SERVER: 				</body>
+CLIENT -> SERVER: 				</html>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 			
+CLIENT -> SERVER: 
+CLIENT -> SERVER: .
+CLIENT -> SERVER: QUIT
+CLIENT -> SERVER: EHLO localhost
+CLIENT -> SERVER: STARTTLS
+CLIENT -> SERVER: EHLO localhost
+CLIENT -> SERVER: AUTH CRAM-MD5
+CLIENT -> SERVER: MDY5ODY4OGM4Y2ExNWEgMGMzYTFmZTNmZWY2Y2VmNDY4Zjg5MTkwMTI4Y2Q0Y2E=
+CLIENT -> SERVER: MAIL FROM:<shezmerhant786@gmail.com>
+CLIENT -> SERVER: RCPT TO:<shezmerchant786@gmail.com>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Wed, 9 Oct 2019 11:25:52 +0000
+CLIENT -> SERVER: To: shezmerchant786@gmail.com
+CLIENT -> SERVER: From: WordPress <shezmerhant786@gmail.com>
+CLIENT -> SERVER: Reply-To: Abbas Lakhani <shez_merchant1986@hotmail.com>
+CLIENT -> SERVER: Subject: Quiz results for General Knowledge Quiz
+CLIENT -> SERVER: Message-ID: <f444285aa94b30c0dcd7320bfc5462ad@localhost>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+CLIENT -> SERVER: Content-Transfer-Encoding: quoted-printable
+CLIENT -> SERVER: 
+CLIENT -> SERVER: <div class=3D'qmn_question_answer qmn_question_answer_incorrect'></div><div=
+CLIENT -> SERVER:  class=3D'qmn_question_answer qmn_question_answer_incorrect'></div><div cla=
+CLIENT -> SERVER: ss=3D'qmn_question_answer qmn_question_answer_incorrect'></div><div class=
+CLIENT -> SERVER: =3D'qmn_question_answer qmn_question_answer_incorrect'></div><div class=3D'=
+CLIENT -> SERVER: qmn_question_answer qmn_question_answer_incorrect'></div><div class=3D'qmn_=
+CLIENT -> SERVER: question_answer qmn_question_answer_incorrect'></div><div class=3D'qmn_ques=
+CLIENT -> SERVER: tion_answer qmn_question_answer_incorrect'></div><div class=3D'qmn_question=
+CLIENT -> SERVER: _answer qmn_question_answer_incorrect'></div><div class=3D'qmn_question_ans=
+CLIENT -> SERVER: wer qmn_question_answer_incorrect'></div><div class=3D'qmn_question_answer =
+CLIENT -> SERVER: qmn_question_answer_incorrect'></div><div class=3D'qmn_question_answer qmn_=
+CLIENT -> SERVER: question_answer_incorrect'></div><div class=3D'qmn_question_answer qmn_ques=
+CLIENT -> SERVER: tion_answer_incorrect'></div><div class=3D'qmn_question_answer qmn_question=
+CLIENT -> SERVER: _answer_incorrect'></div><div class=3D'qmn_question_answer qmn_question_ans=
+CLIENT -> SERVER: wer_incorrect'></div><div class=3D'qmn_question_answer qmn_question_answer_=
+CLIENT -> SERVER: incorrect'></div><div class=3D'qmn_question_answer qmn_question_answer_inco=
+CLIENT -> SERVER: rrect'></div><div class=3D'qmn_question_answer qmn_question_answer_incorrec=
+CLIENT -> SERVER: t'></div><div class=3D'qmn_question_answer qmn_question_answer_incorrect'><=
+CLIENT -> SERVER: /div><div class=3D'qmn_question_answer qmn_question_answer_incorrect'></div=
+CLIENT -> SERVER: ><div class=3D'qmn_question_answer qmn_question_answer_incorrect'></div><di=
+CLIENT -> SERVER: v class=3D'qmn_question_answer qmn_question_answer_incorrect'></div><div cl=
+CLIENT -> SERVER: ass=3D'qmn_question_answer qmn_question_answer_incorrect'></div><div class=
+CLIENT -> SERVER: =3D'qmn_question_answer qmn_question_answer_incorrect'></div><div class=3D'=
+CLIENT -> SERVER: qmn_question_answer qmn_question_answer_incorrect'></div><div class=3D'qmn_=
+CLIENT -> SERVER: question_answer qmn_question_answer_incorrect'></div><div class=3D'qmn_ques=
+CLIENT -> SERVER: tion_answer qmn_question_answer_incorrect'></div><div class=3D'qmn_question=
+CLIENT -> SERVER: _answer qmn_question_answer_incorrect'></div><div class=3D'qmn_question_ans=
+CLIENT -> SERVER: wer qmn_question_answer_incorrect'></div><div class=3D'qmn_question_answer =
+CLIENT -> SERVER: qmn_question_answer_incorrect'></div><div class=3D'qmn_question_answer qmn_=
+CLIENT -> SERVER: question_answer_incorrect'></div>
+CLIENT -> SERVER: .
+CLIENT -> SERVER: QUIT
+CLIENT -> SERVER: EHLO localhost
+CLIENT -> SERVER: STARTTLS
+CLIENT -> SERVER: EHLO localhost
+CLIENT -> SERVER: AUTH CRAM-MD5
+CLIENT -> SERVER: MDY5ODY4OGM4Y2ExNWEgN2Y2NWNmMTlhZWJhNmEwZmZjZTlmNTdlYWVhZTI4Yzk=
+CLIENT -> SERVER: MAIL FROM:<shezmerhant786@gmail.com>
+CLIENT -> SERVER: RCPT TO:<shezmerchant786@gmail.com>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Wed, 9 Oct 2019 11:33:41 +0000
+CLIENT -> SERVER: To: shezmerchant786@gmail.com
+CLIENT -> SERVER: From: Quiz time <shezmerhant786@gmail.com>
+CLIENT -> SERVER: Subject: [General Knowledge Quiz] New user account
+CLIENT -> SERVER: Message-ID: <1e3a2d5d677faed6c34aa6bf5ac47997@localhost>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+CLIENT -> SERVER: 
+CLIENT -> SERVER: <html>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 				<body style="background: #f2f2f2;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: grayscale;">
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 				
+CLIENT -> SERVER: 
+CLIENT -> SERVER: <div style="max-width: 560px;padding: 20px;background: #ffffff;border-radius: 5px;margin:40px auto;font-family: Open Sans,Helvetica,Arial;font-size: 15px;color: #666;">
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 	<div style="color: #444444;font-weight: normal;">
+CLIENT -> SERVER: 		<div style="text-align: center;font-weight:600;font-size:26px;padding: 10px 0;border-bottom: solid 3px #eeeeee;">General Knowledge Quiz</div>
+CLIENT -> SERVER: 		
+CLIENT -> SERVER: 		<div style="clear:both"></div>
+CLIENT -> SERVER: 	</div>
+CLIENT -> SERVER: 	
+CLIENT -> SERVER: 	<div style="padding: 0 30px 30px 30px;border-bottom: 3px solid #eeeeee;">
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 		<div style="padding: 30px 0;font-size: 24px;text-align: center;line-height: 40px;">Sherbano bano has just created an account on General Knowledge Quiz.</span></div>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 		<div style="padding: 10px 0 50px 0;text-align: center;">To view their profile click here: <a href="http://localhost/finalassignment1/site/user/sherbano/" style="color: #3ba1da;text-decoration: none;">http://localhost/finalassignment1/site/user/sherbano/</a></div>
+CLIENT -> SERVER: 		
+CLIENT -> SERVER: 		<div style="padding: 0 0 15px 0;">
+CLIENT -> SERVER: 		
+CLIENT -> SERVER: 			<div style="background: #eee;color: #444;padding: 12px 15px; border-radius: 3px;font-weight: bold;font-size: 16px;">Here is the submitted registration form:<br /><br />
+CLIENT -> SERVER: 				form_id: 5<br />date submitted: 09 Oct 2019 11:32<br />user_login: sherbano<br />first_name: Sherbano<br />last_name: bano<br />user_email: sherbano021@gmail.com<br />
+CLIENT -> SERVER: 			</div>
+CLIENT -> SERVER: 		</div>
+CLIENT -> SERVER: 		
+CLIENT -> SERVER: 	</div>
+CLIENT -> SERVER: 	
+CLIENT -> SERVER: 	<div style="color: #999;padding: 20px 30px">
+CLIENT -> SERVER: 		
+CLIENT -> SERVER: 		<div style="">Thank you!</div>
+CLIENT -> SERVER: 		<div style="">The <a href="http://localhost/finalassignment1/site" style="color: #3ba1da;text-decoration: none;">General Knowledge Quiz</a> Team</div>
+CLIENT -> SERVER: 		
+CLIENT -> SERVER: 	</div>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: </div>
+CLIENT -> SERVER: 				</body>
+CLIENT -> SERVER: 				</html>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 			
+CLIENT -> SERVER: 
+CLIENT -> SERVER: .
+CLIENT -> SERVER: QUIT
+Could not access file: CLIENT -> SERVER: EHLO localhost
+CLIENT -> SERVER: STARTTLS
+CLIENT -> SERVER: EHLO localhost
+CLIENT -> SERVER: AUTH CRAM-MD5
+CLIENT -> SERVER: MDY5ODY4OGM4Y2ExNWEgNGIxMzUxYWNjMzQ2MTQzZTM0ZDM4MDZkNGY4ZGFhNmU=
+CLIENT -> SERVER: MAIL FROM:<shezmerhant786@gmail.com>
+CLIENT -> SERVER: RCPT TO:<sherbano021@gmail.com>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Wed, 9 Oct 2019 11:33:41 +0000
+CLIENT -> SERVER: To: sherbano021@gmail.com
+CLIENT -> SERVER: From: Quiz time <shezmerhant786@gmail.com>
+CLIENT -> SERVER: Subject: Welcome to General Knowledge Quiz!
+CLIENT -> SERVER: Message-ID: <2ad0596c9e12e8fe5f93dbc8e451ced7@localhost>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+CLIENT -> SERVER: 
+CLIENT -> SERVER: <html>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 				<body style="background: #f2f2f2;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: grayscale;">
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 				
+CLIENT -> SERVER: <div style="max-width: 560px;padding: 20px;background: #ffffff;border-radius: 5px;margin:40px auto;font-family: Open Sans,Helvetica,Arial;font-size: 15px;color: #666;">
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 	<div style="color: #444444;font-weight: normal;">
+CLIENT -> SERVER: 		<div style="text-align: center;font-weight:600;font-size:26px;padding: 10px 0;border-bottom: solid 3px #eeeeee;">General Knowledge Quiz</div>
+CLIENT -> SERVER: 		
+CLIENT -> SERVER: 		<div style="clear:both"></div>
+CLIENT -> SERVER: 	</div>
+CLIENT -> SERVER: 	
+CLIENT -> SERVER: 	<div style="padding: 0 30px 30px 30px;border-bottom: 3px solid #eeeeee;">
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 		<div style="padding: 30px 0;font-size: 24px;text-align: center;line-height: 40px;">Thank you for signing up!<span style="display: block;">Your account is now active.</span></div>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 		<div style="padding: 10px 0 50px 0;text-align: center;"><a href="http://localhost/finalassignment1/site/login/" style="background: #555555;color: #fff;padding: 12px 30px;text-decoration: none;border-radius: 3px;letter-spacing: 0.3px;">Login to our site</a></div>
+CLIENT -> SERVER: 		
+CLIENT -> SERVER: 		<div style="padding:20px;">If you have any problems, please contact us at <a href="mailto:shezmerchant786@gmail.com" style="color: #3ba1da;text-decoration: none">shezmerchant786@gmail.com</a></div>
+CLIENT -> SERVER: 		
+CLIENT -> SERVER: 		
+CLIENT -> SERVER: 	</div>
+CLIENT -> SERVER: 	
+CLIENT -> SERVER: 	<div style="color: #999;padding: 20px 30px">
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 		<div style="">Thank you!</div>
+CLIENT -> SERVER: 		<div style="">The <a href="http://localhost/finalassignment1/site" style="color: #3ba1da;text-decoration: none;">General Knowledge Quiz</a> Team</div>
+CLIENT -> SERVER: 		
+CLIENT -> SERVER: 	</div>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: </div>
+CLIENT -> SERVER: 				</body>
+CLIENT -> SERVER: 				</html>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 			
+CLIENT -> SERVER: 
+CLIENT -> SERVER: .
+CLIENT -> SERVER: QUIT
+CLIENT -> SERVER: EHLO localhost
+CLIENT -> SERVER: STARTTLS
+CLIENT -> SERVER: EHLO localhost
+CLIENT -> SERVER: AUTH CRAM-MD5
+CLIENT -> SERVER: MDY5ODY4OGM4Y2ExNWEgYjNiZGQ4YTVhOTAzZTYyOTA1OTAwYjFkY2U2NjE3Nzk=
+CLIENT -> SERVER: MAIL FROM:<shezmerhant786@gmail.com>
+CLIENT -> SERVER: RCPT TO:<shezmerchant786@gmail.com>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Wed, 9 Oct 2019 11:42:58 +0000
+CLIENT -> SERVER: To: shezmerchant786@gmail.com
+CLIENT -> SERVER: From: WordPress <shezmerhant786@gmail.com>
+CLIENT -> SERVER: Reply-To: Sherbano bano <sherbano021@gmail.com>
+CLIENT -> SERVER: Subject: Quiz results for General Knowledge Quiz
+CLIENT -> SERVER: Message-ID: <b898e32007c8adbebf043e2be5454db1@localhost>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+CLIENT -> SERVER: Content-Transfer-Encoding: quoted-printable
+CLIENT -> SERVER: 
+CLIENT -> SERVER: <div class=3D'qmn_question_answer qmn_question_answer_incorrect'></div><div=
+CLIENT -> SERVER:  class=3D'qmn_question_answer qmn_question_answer_incorrect'></div><div cla=
+CLIENT -> SERVER: ss=3D'qmn_question_answer qmn_question_answer_incorrect'></div><div class=
+CLIENT -> SERVER: =3D'qmn_question_answer qmn_question_answer_incorrect'></div><div class=3D'=
+CLIENT -> SERVER: qmn_question_answer qmn_question_answer_incorrect'></div><div class=3D'qmn_=
+CLIENT -> SERVER: question_answer qmn_question_answer_incorrect'></div><div class=3D'qmn_ques=
+CLIENT -> SERVER: tion_answer qmn_question_answer_incorrect'></div><div class=3D'qmn_question=
+CLIENT -> SERVER: _answer qmn_question_answer_incorrect'></div><div class=3D'qmn_question_ans=
+CLIENT -> SERVER: wer qmn_question_answer_incorrect'></div><div class=3D'qmn_question_answer =
+CLIENT -> SERVER: qmn_question_answer_incorrect'></div><div class=3D'qmn_question_answer qmn_=
+CLIENT -> SERVER: question_answer_incorrect'></div><div class=3D'qmn_question_answer qmn_ques=
+CLIENT -> SERVER: tion_answer_incorrect'></div><div class=3D'qmn_question_answer qmn_question=
+CLIENT -> SERVER: _answer_incorrect'></div><div class=3D'qmn_question_answer qmn_question_ans=
+CLIENT -> SERVER: wer_incorrect'></div><div class=3D'qmn_question_answer qmn_question_answer_=
+CLIENT -> SERVER: incorrect'></div><div class=3D'qmn_question_answer qmn_question_answer_inco=
+CLIENT -> SERVER: rrect'></div><div class=3D'qmn_question_answer qmn_question_answer_incorrec=
+CLIENT -> SERVER: t'></div><div class=3D'qmn_question_answer qmn_question_answer_incorrect'><=
+CLIENT -> SERVER: /div><div class=3D'qmn_question_answer qmn_question_answer_incorrect'></div=
+CLIENT -> SERVER: ><div class=3D'qmn_question_answer qmn_question_answer_incorrect'></div><di=
+CLIENT -> SERVER: v class=3D'qmn_question_answer qmn_question_answer_incorrect'></div><div cl=
+CLIENT -> SERVER: ass=3D'qmn_question_answer qmn_question_answer_incorrect'></div><div class=
+CLIENT -> SERVER: =3D'qmn_question_answer qmn_question_answer_incorrect'></div><div class=3D'=
+CLIENT -> SERVER: qmn_question_answer qmn_question_answer_incorrect'></div><div class=3D'qmn_=
+CLIENT -> SERVER: question_answer qmn_question_answer_incorrect'></div><div class=3D'qmn_ques=
+CLIENT -> SERVER: tion_answer qmn_question_answer_incorrect'></div><div class=3D'qmn_question=
+CLIENT -> SERVER: _answer qmn_question_answer_incorrect'></div><div class=3D'qmn_question_ans=
+CLIENT -> SERVER: wer qmn_question_answer_incorrect'></div><div class=3D'qmn_question_answer =
+CLIENT -> SERVER: qmn_question_answer_incorrect'></div><div class=3D'qmn_question_answer qmn_=
+CLIENT -> SERVER: question_answer_incorrect'></div>
+CLIENT -> SERVER: .
+CLIENT -> SERVER: QUIT
+SMTP ERROR: Failed to connect to server: php_network_getaddresses: getaddrinfo failed: No such host is known.  (0)SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/TroubleshootingSMTP ERROR: Failed to connect to server: php_network_getaddresses: getaddrinfo failed: No such host is known.  (0)SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/TroubleshootingCould not access file: SMTP ERROR: Failed to connect to server: php_network_getaddresses: getaddrinfo failed: No such host is known.  (0)SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/TroubleshootingSMTP ERROR: Failed to connect to server: php_network_getaddresses: getaddrinfo failed: No such host is known.  (0)SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/TroubleshootingSMTP ERROR: Failed to connect to server: php_network_getaddresses: getaddrinfo failed: No such host is known.  (0)SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/TroubleshootingCould not access file: SMTP ERROR: Failed to connect to server: php_network_getaddresses: getaddrinfo failed: No such host is known.  (0)SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/TroubleshootingSMTP ERROR: Failed to connect to server: php_network_getaddresses: getaddrinfo failed: No such host is known.  (0)SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/TroubleshootingCLIENT -> SERVER: EHLO localhost
+CLIENT -> SERVER: STARTTLS
+CLIENT -> SERVER: EHLO localhost
+CLIENT -> SERVER: AUTH CRAM-MD5
+CLIENT -> SERVER: MDY5ODY4OGM4Y2ExNWEgNjMwMjg3NDM1ZDkxYmI0OTEyMTRkZGFkYjRjM2JiM2E=
+CLIENT -> SERVER: MAIL FROM:<shezmerhant786@gmail.com>
+CLIENT -> SERVER: RCPT TO:<shezmerchant786@gmail.com>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Wed, 9 Oct 2019 18:48:04 +0000
+CLIENT -> SERVER: To: shezmerchant786@gmail.com
+CLIENT -> SERVER: From: WordPress <shezmerhant786@gmail.com>
+CLIENT -> SERVER: Reply-To: admin <shezmerchant786@gmail.com>
+CLIENT -> SERVER: Subject: Quiz results for General Knowledge Quiz
+CLIENT -> SERVER: Message-ID: <de076f91413e2775387d233503141dd6@localhost>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+CLIENT -> SERVER: Content-Transfer-Encoding: quoted-printable
+CLIENT -> SERVER: 
+CLIENT -> SERVER: <div class=3D'qmn_question_answer qmn_question_answer_correct'></div><div c=
+CLIENT -> SERVER: lass=3D'qmn_question_answer qmn_question_answer_correct'></div><div class=
+CLIENT -> SERVER: =3D'qmn_question_answer qmn_question_answer_correct'></div><div class=3D'qm=
+CLIENT -> SERVER: n_question_answer qmn_question_answer_correct'></div><div class=3D'qmn_ques=
+CLIENT -> SERVER: tion_answer qmn_question_answer_correct'></div><div class=3D'qmn_question_a=
+CLIENT -> SERVER: nswer qmn_question_answer_correct'></div><div class=3D'qmn_question_answer =
+CLIENT -> SERVER: qmn_question_answer_correct'></div><div class=3D'qmn_question_answer qmn_qu=
+CLIENT -> SERVER: estion_answer_correct'></div><div class=3D'qmn_question_answer qmn_question=
+CLIENT -> SERVER: _answer_correct'></div><div class=3D'qmn_question_answer qmn_question_answe=
+CLIENT -> SERVER: r_correct'></div><div class=3D'qmn_question_answer qmn_question_answer_corr=
+CLIENT -> SERVER: ect'></div><div class=3D'qmn_question_answer qmn_question_answer_correct'><=
+CLIENT -> SERVER: /div><div class=3D'qmn_question_answer qmn_question_answer_correct'></div><=
+CLIENT -> SERVER: div class=3D'qmn_question_answer qmn_question_answer_incorrect'></div><div =
+CLIENT -> SERVER: class=3D'qmn_question_answer qmn_question_answer_correct'></div><div class=
+CLIENT -> SERVER: =3D'qmn_question_answer qmn_question_answer_correct'></div><div class=3D'qm=
+CLIENT -> SERVER: n_question_answer qmn_question_answer_correct'></div><div class=3D'qmn_ques=
+CLIENT -> SERVER: tion_answer qmn_question_answer_correct'></div><div class=3D'qmn_question_a=
+CLIENT -> SERVER: nswer qmn_question_answer_correct'></div><div class=3D'qmn_question_answer =
+CLIENT -> SERVER: qmn_question_answer_correct'></div><div class=3D'qmn_question_answer qmn_qu=
+CLIENT -> SERVER: estion_answer_correct'></div><div class=3D'qmn_question_answer qmn_question=
+CLIENT -> SERVER: _answer_correct'></div><div class=3D'qmn_question_answer qmn_question_answe=
+CLIENT -> SERVER: r_correct'></div><div class=3D'qmn_question_answer qmn_question_answer_corr=
+CLIENT -> SERVER: ect'></div><div class=3D'qmn_question_answer qmn_question_answer_incorrect'=
+CLIENT -> SERVER: ></div><div class=3D'qmn_question_answer qmn_question_answer_correct'></div=
+CLIENT -> SERVER: ><div class=3D'qmn_question_answer qmn_question_answer_correct'></div><div =
+CLIENT -> SERVER: class=3D'qmn_question_answer qmn_question_answer_correct'></div><div class=
+CLIENT -> SERVER: =3D'qmn_question_answer qmn_question_answer_correct'></div><div class=3D'qm=
+CLIENT -> SERVER: n_question_answer qmn_question_answer_correct'></div>
+CLIENT -> SERVER: .
+CLIENT -> SERVER: QUIT
+SMTP ERROR: QUIT command failed: CLIENT -> SERVER: EHLO localhost
+CLIENT -> SERVER: STARTTLS
+CLIENT -> SERVER: EHLO localhost
+CLIENT -> SERVER: AUTH CRAM-MD5
+CLIENT -> SERVER: MDY5ODY4OGM4Y2ExNWEgOTMxYTkyNWYzNTA0Yjk0M2NkYTAxZDkwYjA5ZjU2NzY=
+CLIENT -> SERVER: MAIL FROM:<shezmerhant786@gmail.com>
+CLIENT -> SERVER: RCPT TO:<shezmerchant786@gmail.com>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Wed, 9 Oct 2019 18:54:43 +0000
+CLIENT -> SERVER: To: shezmerchant786@gmail.com
+CLIENT -> SERVER: From: WordPress <shezmerhant786@gmail.com>
+CLIENT -> SERVER: Reply-To: admin <shezmerchant786@gmail.com>
+CLIENT -> SERVER: Subject: Quiz results for General Knowledge Quiz
+CLIENT -> SERVER: Message-ID: <93b78702376dca120dd24320fb2bfeeb@localhost>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+CLIENT -> SERVER: Content-Transfer-Encoding: quoted-printable
+CLIENT -> SERVER: 
+CLIENT -> SERVER: <div class=3D'qmn_question_answer qmn_question_answer_correct'></div><div c=
+CLIENT -> SERVER: lass=3D'qmn_question_answer qmn_question_answer_correct'></div><div class=
+CLIENT -> SERVER: =3D'qmn_question_answer qmn_question_answer_correct'></div><div class=3D'qm=
+CLIENT -> SERVER: n_question_answer qmn_question_answer_correct'></div><div class=3D'qmn_ques=
+CLIENT -> SERVER: tion_answer qmn_question_answer_correct'></div><div class=3D'qmn_question_a=
+CLIENT -> SERVER: nswer qmn_question_answer_correct'></div><div class=3D'qmn_question_answer =
+CLIENT -> SERVER: qmn_question_answer_correct'></div><div class=3D'qmn_question_answer qmn_qu=
+CLIENT -> SERVER: estion_answer_correct'></div><div class=3D'qmn_question_answer qmn_question=
+CLIENT -> SERVER: _answer_correct'></div><div class=3D'qmn_question_answer qmn_question_answe=
+CLIENT -> SERVER: r_correct'></div><div class=3D'qmn_question_answer qmn_question_answer_corr=
+CLIENT -> SERVER: ect'></div><div class=3D'qmn_question_answer qmn_question_answer_correct'><=
+CLIENT -> SERVER: /div><div class=3D'qmn_question_answer qmn_question_answer_correct'></div><=
+CLIENT -> SERVER: div class=3D'qmn_question_answer qmn_question_answer_correct'></div><div cl=
+CLIENT -> SERVER: ass=3D'qmn_question_answer qmn_question_answer_correct'></div><div class=3D=
+CLIENT -> SERVER: 'qmn_question_answer qmn_question_answer_correct'></div><div class=3D'qmn_q=
+CLIENT -> SERVER: uestion_answer qmn_question_answer_correct'></div><div class=3D'qmn_questio=
+CLIENT -> SERVER: n_answer qmn_question_answer_correct'></div><div class=3D'qmn_question_answ=
+CLIENT -> SERVER: er qmn_question_answer_correct'></div><div class=3D'qmn_question_answer qmn=
+CLIENT -> SERVER: _question_answer_correct'></div><div class=3D'qmn_question_answer qmn_quest=
+CLIENT -> SERVER: ion_answer_correct'></div><div class=3D'qmn_question_answer qmn_question_an=
+CLIENT -> SERVER: swer_correct'></div><div class=3D'qmn_question_answer qmn_question_answer_c=
+CLIENT -> SERVER: orrect'></div><div class=3D'qmn_question_answer qmn_question_answer_correct=
+CLIENT -> SERVER: '></div><div class=3D'qmn_question_answer qmn_question_answer_correct'></di=
+CLIENT -> SERVER: v><div class=3D'qmn_question_answer qmn_question_answer_correct'></div><div=
+CLIENT -> SERVER:  class=3D'qmn_question_answer qmn_question_answer_correct'></div><div class=
+CLIENT -> SERVER: =3D'qmn_question_answer qmn_question_answer_correct'></div><div class=3D'qm=
+CLIENT -> SERVER: n_question_answer qmn_question_answer_correct'></div><div class=3D'qmn_ques=
+CLIENT -> SERVER: tion_answer qmn_question_answer_correct'></div>
+CLIENT -> SERVER: .
+CLIENT -> SERVER: QUIT
+CLIENT -> SERVER: EHLO localhost
+CLIENT -> SERVER: STARTTLS
+CLIENT -> SERVER: EHLO localhost
+CLIENT -> SERVER: AUTH CRAM-MD5
+CLIENT -> SERVER: MDY5ODY4OGM4Y2ExNWEgMDliOWVjMzUyMWNjMjY4MzM0ZjQ1OTY0YThlYTI0N2Q=
+CLIENT -> SERVER: MAIL FROM:<shezmerhant786@gmail.com>
+CLIENT -> SERVER: RCPT TO:<shezmerchant786@gmail.com>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Wed, 9 Oct 2019 18:58:15 +0000
+CLIENT -> SERVER: To: shezmerchant786@gmail.com
+CLIENT -> SERVER: From: WordPress <shezmerhant786@gmail.com>
+CLIENT -> SERVER: Reply-To: admin <shezmerchant786@gmail.com>
+CLIENT -> SERVER: Subject: Quiz results for General Knowledge Quiz
+CLIENT -> SERVER: Message-ID: <ac31ecd05f95e0f1d4a188d91ffe4cbb@localhost>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+CLIENT -> SERVER: Content-Transfer-Encoding: quoted-printable
+CLIENT -> SERVER: 
+CLIENT -> SERVER: <div class=3D'qmn_question_answer qmn_question_answer_incorrect'></div><div=
+CLIENT -> SERVER:  class=3D'qmn_question_answer qmn_question_answer_incorrect'></div><div cla=
+CLIENT -> SERVER: ss=3D'qmn_question_answer qmn_question_answer_incorrect'></div><div class=
+CLIENT -> SERVER: =3D'qmn_question_answer qmn_question_answer_incorrect'></div><div class=3D'=
+CLIENT -> SERVER: qmn_question_answer qmn_question_answer_incorrect'></div><div class=3D'qmn_=
+CLIENT -> SERVER: question_answer qmn_question_answer_incorrect'></div><div class=3D'qmn_ques=
+CLIENT -> SERVER: tion_answer qmn_question_answer_incorrect'></div><div class=3D'qmn_question=
+CLIENT -> SERVER: _answer qmn_question_answer_incorrect'></div><div class=3D'qmn_question_ans=
+CLIENT -> SERVER: wer qmn_question_answer_incorrect'></div><div class=3D'qmn_question_answer =
+CLIENT -> SERVER: qmn_question_answer_incorrect'></div><div class=3D'qmn_question_answer qmn_=
+CLIENT -> SERVER: question_answer_incorrect'></div><div class=3D'qmn_question_answer qmn_ques=
+CLIENT -> SERVER: tion_answer_incorrect'></div><div class=3D'qmn_question_answer qmn_question=
+CLIENT -> SERVER: _answer_incorrect'></div><div class=3D'qmn_question_answer qmn_question_ans=
+CLIENT -> SERVER: wer_incorrect'></div><div class=3D'qmn_question_answer qmn_question_answer_=
+CLIENT -> SERVER: incorrect'></div><div class=3D'qmn_question_answer qmn_question_answer_inco=
+CLIENT -> SERVER: rrect'></div><div class=3D'qmn_question_answer qmn_question_answer_incorrec=
+CLIENT -> SERVER: t'></div><div class=3D'qmn_question_answer qmn_question_answer_incorrect'><=
+CLIENT -> SERVER: /div><div class=3D'qmn_question_answer qmn_question_answer_incorrect'></div=
+CLIENT -> SERVER: ><div class=3D'qmn_question_answer qmn_question_answer_incorrect'></div><di=
+CLIENT -> SERVER: v class=3D'qmn_question_answer qmn_question_answer_incorrect'></div><div cl=
+CLIENT -> SERVER: ass=3D'qmn_question_answer qmn_question_answer_incorrect'></div><div class=
+CLIENT -> SERVER: =3D'qmn_question_answer qmn_question_answer_incorrect'></div><div class=3D'=
+CLIENT -> SERVER: qmn_question_answer qmn_question_answer_incorrect'></div><div class=3D'qmn_=
+CLIENT -> SERVER: question_answer qmn_question_answer_incorrect'></div><div class=3D'qmn_ques=
+CLIENT -> SERVER: tion_answer qmn_question_answer_incorrect'></div><div class=3D'qmn_question=
+CLIENT -> SERVER: _answer qmn_question_answer_incorrect'></div><div class=3D'qmn_question_ans=
+CLIENT -> SERVER: wer qmn_question_answer_incorrect'></div><div class=3D'qmn_question_answer =
+CLIENT -> SERVER: qmn_question_answer_incorrect'></div><div class=3D'qmn_question_answer qmn_=
+CLIENT -> SERVER: question_answer_incorrect'></div>
+CLIENT -> SERVER: .
+CLIENT -> SERVER: QUIT
+CLIENT -> SERVER: EHLO localhost
+CLIENT -> SERVER: STARTTLS
+CLIENT -> SERVER: EHLO localhost
+CLIENT -> SERVER: AUTH CRAM-MD5
+CLIENT -> SERVER: MDY5ODY4OGM4Y2ExNWEgOGRhOTY1M2I0YWI1NWU1MDUzNTQ4MjA3MzkzNjYwMWE=
+CLIENT -> SERVER: MAIL FROM:<shezmerhant786@gmail.com>
+CLIENT -> SERVER: RCPT TO:<shezmerchant786@gmail.com>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Wed, 9 Oct 2019 19:02:09 +0000
+CLIENT -> SERVER: To: shezmerchant786@gmail.com
+CLIENT -> SERVER: From: Quiz time <shezmerhant786@gmail.com>
+CLIENT -> SERVER: Subject: [General Knowledge Quiz] New user account
+CLIENT -> SERVER: Message-ID: <56ac1adfb5d02bc7743d553f61b9126a@localhost>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+CLIENT -> SERVER: 
+CLIENT -> SERVER: <html>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 				<body style="background: #f2f2f2;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: grayscale;">
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 				
+CLIENT -> SERVER: 
+CLIENT -> SERVER: <div style="max-width: 560px;padding: 20px;background: #ffffff;border-radius: 5px;margin:40px auto;font-family: Open Sans,Helvetica,Arial;font-size: 15px;color: #666;">
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 	<div style="color: #444444;font-weight: normal;">
+CLIENT -> SERVER: 		<div style="text-align: center;font-weight:600;font-size:26px;padding: 10px 0;border-bottom: solid 3px #eeeeee;">General Knowledge Quiz</div>
+CLIENT -> SERVER: 		
+CLIENT -> SERVER: 		<div style="clear:both"></div>
+CLIENT -> SERVER: 	</div>
+CLIENT -> SERVER: 	
+CLIENT -> SERVER: 	<div style="padding: 0 30px 30px 30px;border-bottom: 3px solid #eeeeee;">
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 		<div style="padding: 30px 0;font-size: 24px;text-align: center;line-height: 40px;">abbas lakhani has just created an account on General Knowledge Quiz.</span></div>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 		<div style="padding: 10px 0 50px 0;text-align: center;">To view their profile click here: <a href="http://localhost/finalassignment1/site/user/abbasali79/" style="color: #3ba1da;text-decoration: none;">http://localhost/finalassignment1/site/user/abbasali79/</a></div>
+CLIENT -> SERVER: 		
+CLIENT -> SERVER: 		<div style="padding: 0 0 15px 0;">
+CLIENT -> SERVER: 		
+CLIENT -> SERVER: 			<div style="background: #eee;color: #444;padding: 12px 15px; border-radius: 3px;font-weight: bold;font-size: 16px;">Here is the submitted registration form:<br /><br />
+CLIENT -> SERVER: 				form_id: 5<br />date submitted: 09 Oct 2019 19:00<br />user_login: abbasali79<br />first_name: abbas<br />last_name: lakhani<br />user_email: abbaslakhani@hotmail.com<br />
+CLIENT -> SERVER: 			</div>
+CLIENT -> SERVER: 		</div>
+CLIENT -> SERVER: 		
+CLIENT -> SERVER: 	</div>
+CLIENT -> SERVER: 	
+CLIENT -> SERVER: 	<div style="color: #999;padding: 20px 30px">
+CLIENT -> SERVER: 		
+CLIENT -> SERVER: 		<div style="">Thank you!</div>
+CLIENT -> SERVER: 		<div style="">The <a href="http://localhost/finalassignment1/site" style="color: #3ba1da;text-decoration: none;">General Knowledge Quiz</a> Team</div>
+CLIENT -> SERVER: 		
+CLIENT -> SERVER: 	</div>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: </div>
+CLIENT -> SERVER: 				</body>
+CLIENT -> SERVER: 				</html>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 			
+CLIENT -> SERVER: 
+CLIENT -> SERVER: .
+CLIENT -> SERVER: QUIT
+Could not access file: CLIENT -> SERVER: EHLO localhost
+CLIENT -> SERVER: STARTTLS
+CLIENT -> SERVER: EHLO localhost
+CLIENT -> SERVER: AUTH CRAM-MD5
+CLIENT -> SERVER: MDY5ODY4OGM4Y2ExNWEgMWE5NTFlOGU0NGNiNjk1MTI1ZDZkZmYzNGNkNjUxMzE=
+CLIENT -> SERVER: MAIL FROM:<shezmerhant786@gmail.com>
+CLIENT -> SERVER: RCPT TO:<abbaslakhani@hotmail.com>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Wed, 9 Oct 2019 19:02:09 +0000
+CLIENT -> SERVER: To: abbaslakhani@hotmail.com
+CLIENT -> SERVER: From: Quiz time <shezmerhant786@gmail.com>
+CLIENT -> SERVER: Subject: Welcome to General Knowledge Quiz!
+CLIENT -> SERVER: Message-ID: <41f6ffb6233c7aac11fffc313b7b9d37@localhost>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+CLIENT -> SERVER: 
+CLIENT -> SERVER: <html>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 				<body style="background: #f2f2f2;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: grayscale;">
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 				
+CLIENT -> SERVER: <div style="max-width: 560px;padding: 20px;background: #ffffff;border-radius: 5px;margin:40px auto;font-family: Open Sans,Helvetica,Arial;font-size: 15px;color: #666;">
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 	<div style="color: #444444;font-weight: normal;">
+CLIENT -> SERVER: 		<div style="text-align: center;font-weight:600;font-size:26px;padding: 10px 0;border-bottom: solid 3px #eeeeee;">General Knowledge Quiz</div>
+CLIENT -> SERVER: 		
+CLIENT -> SERVER: 		<div style="clear:both"></div>
+CLIENT -> SERVER: 	</div>
+CLIENT -> SERVER: 	
+CLIENT -> SERVER: 	<div style="padding: 0 30px 30px 30px;border-bottom: 3px solid #eeeeee;">
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 		<div style="padding: 30px 0;font-size: 24px;text-align: center;line-height: 40px;">Thank you for signing up!<span style="display: block;">Your account is now active.</span></div>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 		<div style="padding: 10px 0 50px 0;text-align: center;"><a href="http://localhost/finalassignment1/site/login/" style="background: #555555;color: #fff;padding: 12px 30px;text-decoration: none;border-radius: 3px;letter-spacing: 0.3px;">Login to our site</a></div>
+CLIENT -> SERVER: 		
+CLIENT -> SERVER: 		<div style="padding:20px;">If you have any problems, please contact us at <a href="mailto:shezmerchant786@gmail.com" style="color: #3ba1da;text-decoration: none">shezmerchant786@gmail.com</a></div>
+CLIENT -> SERVER: 		
+CLIENT -> SERVER: 		
+CLIENT -> SERVER: 	</div>
+CLIENT -> SERVER: 	
+CLIENT -> SERVER: 	<div style="color: #999;padding: 20px 30px">
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 		<div style="">Thank you!</div>
+CLIENT -> SERVER: 		<div style="">The <a href="http://localhost/finalassignment1/site" style="color: #3ba1da;text-decoration: none;">General Knowledge Quiz</a> Team</div>
+CLIENT -> SERVER: 		
+CLIENT -> SERVER: 	</div>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: </div>
+CLIENT -> SERVER: 				</body>
+CLIENT -> SERVER: 				</html>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 			
+CLIENT -> SERVER: 
+CLIENT -> SERVER: .
+CLIENT -> SERVER: QUIT
+CLIENT -> SERVER: EHLO localhost
+CLIENT -> SERVER: STARTTLS
+CLIENT -> SERVER: EHLO localhost
+CLIENT -> SERVER: AUTH CRAM-MD5
+CLIENT -> SERVER: MDY5ODY4OGM4Y2ExNWEgNGU3M2Q4ODU5OWZjZDE1ZTAwY2JlZjI0OGU5YWFkOGQ=
+CLIENT -> SERVER: MAIL FROM:<shezmerhant786@gmail.com>
+CLIENT -> SERVER: RCPT TO:<shezmerchant786@gmail.com>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Wed, 9 Oct 2019 19:08:38 +0000
+CLIENT -> SERVER: To: shezmerchant786@gmail.com
+CLIENT -> SERVER: From: WordPress <shezmerhant786@gmail.com>
+CLIENT -> SERVER: Reply-To: abbas lakhani <abbaslakhani@hotmail.com>
+CLIENT -> SERVER: Subject: Quiz results for General Knowledge Quiz
+CLIENT -> SERVER: Message-ID: <388564f852ecc3eb6c43a8eff73786c5@localhost>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+CLIENT -> SERVER: Content-Transfer-Encoding: quoted-printable
+CLIENT -> SERVER: 
+CLIENT -> SERVER: <div class=3D'qmn_question_answer qmn_question_answer_correct'></div><div c=
+CLIENT -> SERVER: lass=3D'qmn_question_answer qmn_question_answer_correct'></div><div class=
+CLIENT -> SERVER: =3D'qmn_question_answer qmn_question_answer_correct'></div><div class=3D'qm=
+CLIENT -> SERVER: n_question_answer qmn_question_answer_correct'></div><div class=3D'qmn_ques=
+CLIENT -> SERVER: tion_answer qmn_question_answer_correct'></div><div class=3D'qmn_question_a=
+CLIENT -> SERVER: nswer qmn_question_answer_correct'></div><div class=3D'qmn_question_answer =
+CLIENT -> SERVER: qmn_question_answer_correct'></div><div class=3D'qmn_question_answer qmn_qu=
+CLIENT -> SERVER: estion_answer_correct'></div><div class=3D'qmn_question_answer qmn_question=
+CLIENT -> SERVER: _answer_correct'></div><div class=3D'qmn_question_answer qmn_question_answe=
+CLIENT -> SERVER: r_correct'></div><div class=3D'qmn_question_answer qmn_question_answer_corr=
+CLIENT -> SERVER: ect'></div><div class=3D'qmn_question_answer qmn_question_answer_incorrect'=
+CLIENT -> SERVER: ></div><div class=3D'qmn_question_answer qmn_question_answer_correct'></div=
+CLIENT -> SERVER: ><div class=3D'qmn_question_answer qmn_question_answer_correct'></div><div =
+CLIENT -> SERVER: class=3D'qmn_question_answer qmn_question_answer_correct'></div><div class=
+CLIENT -> SERVER: =3D'qmn_question_answer qmn_question_answer_correct'></div><div class=3D'qm=
+CLIENT -> SERVER: n_question_answer qmn_question_answer_correct'></div><div class=3D'qmn_ques=
+CLIENT -> SERVER: tion_answer qmn_question_answer_correct'></div><div class=3D'qmn_question_a=
+CLIENT -> SERVER: nswer qmn_question_answer_correct'></div><div class=3D'qmn_question_answer =
+CLIENT -> SERVER: qmn_question_answer_correct'></div><div class=3D'qmn_question_answer qmn_qu=
+CLIENT -> SERVER: estion_answer_correct'></div><div class=3D'qmn_question_answer qmn_question=
+CLIENT -> SERVER: _answer_correct'></div><div class=3D'qmn_question_answer qmn_question_answe=
+CLIENT -> SERVER: r_correct'></div><div class=3D'qmn_question_answer qmn_question_answer_corr=
+CLIENT -> SERVER: ect'></div><div class=3D'qmn_question_answer qmn_question_answer_correct'><=
+CLIENT -> SERVER: /div><div class=3D'qmn_question_answer qmn_question_answer_correct'></div><=
+CLIENT -> SERVER: div class=3D'qmn_question_answer qmn_question_answer_correct'></div><div cl=
+CLIENT -> SERVER: ass=3D'qmn_question_answer qmn_question_answer_correct'></div><div class=3D=
+CLIENT -> SERVER: 'qmn_question_answer qmn_question_answer_correct'></div><div class=3D'qmn_q=
+CLIENT -> SERVER: uestion_answer qmn_question_answer_correct'></div>
+CLIENT -> SERVER: .
+CLIENT -> SERVER: QUIT
+CLIENT -> SERVER: EHLO localhost
+CLIENT -> SERVER: STARTTLS
+CLIENT -> SERVER: EHLO localhost
+CLIENT -> SERVER: AUTH CRAM-MD5
+CLIENT -> SERVER: MDY5ODY4OGM4Y2ExNWEgMzBlYTVjNDcxNGExNTg3YmU5MjRhMmNjMmIyODZmZDU=
+CLIENT -> SERVER: MAIL FROM:<shezmerhant786@gmail.com>
+CLIENT -> SERVER: RCPT TO:<shezmerchant786@gmail.com>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Wed, 9 Oct 2019 19:14:57 +0000
+CLIENT -> SERVER: To: shezmerchant786@gmail.com
+CLIENT -> SERVER: From: WordPress <shezmerhant786@gmail.com>
+CLIENT -> SERVER: Reply-To: admin <shezmerchant786@gmail.com>
+CLIENT -> SERVER: Subject: Quiz results for General Knowledge Quiz
+CLIENT -> SERVER: Message-ID: <75299a0e75bf04ae0b6cc36c4d86ada8@localhost>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+CLIENT -> SERVER: Content-Transfer-Encoding: quoted-printable
+CLIENT -> SERVER: 
+CLIENT -> SERVER: <div class=3D'qmn_question_answer qmn_question_answer_incorrect'></div><div=
+CLIENT -> SERVER:  class=3D'qmn_question_answer qmn_question_answer_incorrect'></div><div cla=
+CLIENT -> SERVER: ss=3D'qmn_question_answer qmn_question_answer_incorrect'></div><div class=
+CLIENT -> SERVER: =3D'qmn_question_answer qmn_question_answer_incorrect'></div><div class=3D'=
+CLIENT -> SERVER: qmn_question_answer qmn_question_answer_incorrect'></div><div class=3D'qmn_=
+CLIENT -> SERVER: question_answer qmn_question_answer_incorrect'></div><div class=3D'qmn_ques=
+CLIENT -> SERVER: tion_answer qmn_question_answer_incorrect'></div><div class=3D'qmn_question=
+CLIENT -> SERVER: _answer qmn_question_answer_incorrect'></div><div class=3D'qmn_question_ans=
+CLIENT -> SERVER: wer qmn_question_answer_incorrect'></div><div class=3D'qmn_question_answer =
+CLIENT -> SERVER: qmn_question_answer_incorrect'></div><div class=3D'qmn_question_answer qmn_=
+CLIENT -> SERVER: question_answer_incorrect'></div><div class=3D'qmn_question_answer qmn_ques=
+CLIENT -> SERVER: tion_answer_incorrect'></div><div class=3D'qmn_question_answer qmn_question=
+CLIENT -> SERVER: _answer_incorrect'></div><div class=3D'qmn_question_answer qmn_question_ans=
+CLIENT -> SERVER: wer_incorrect'></div><div class=3D'qmn_question_answer qmn_question_answer_=
+CLIENT -> SERVER: incorrect'></div><div class=3D'qmn_question_answer qmn_question_answer_inco=
+CLIENT -> SERVER: rrect'></div><div class=3D'qmn_question_answer qmn_question_answer_incorrec=
+CLIENT -> SERVER: t'></div><div class=3D'qmn_question_answer qmn_question_answer_incorrect'><=
+CLIENT -> SERVER: /div><div class=3D'qmn_question_answer qmn_question_answer_incorrect'></div=
+CLIENT -> SERVER: ><div class=3D'qmn_question_answer qmn_question_answer_incorrect'></div><di=
+CLIENT -> SERVER: v class=3D'qmn_question_answer qmn_question_answer_incorrect'></div><div cl=
+CLIENT -> SERVER: ass=3D'qmn_question_answer qmn_question_answer_incorrect'></div><div class=
+CLIENT -> SERVER: =3D'qmn_question_answer qmn_question_answer_incorrect'></div><div class=3D'=
+CLIENT -> SERVER: qmn_question_answer qmn_question_answer_incorrect'></div><div class=3D'qmn_=
+CLIENT -> SERVER: question_answer qmn_question_answer_incorrect'></div><div class=3D'qmn_ques=
+CLIENT -> SERVER: tion_answer qmn_question_answer_incorrect'></div><div class=3D'qmn_question=
+CLIENT -> SERVER: _answer qmn_question_answer_incorrect'></div><div class=3D'qmn_question_ans=
+CLIENT -> SERVER: wer qmn_question_answer_incorrect'></div><div class=3D'qmn_question_answer =
+CLIENT -> SERVER: qmn_question_answer_incorrect'></div><div class=3D'qmn_question_answer qmn_=
+CLIENT -> SERVER: question_answer_incorrect'></div>
+CLIENT -> SERVER: .
+CLIENT -> SERVER: QUIT
