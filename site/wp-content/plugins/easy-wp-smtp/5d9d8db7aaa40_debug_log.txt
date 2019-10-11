@@ -1569,3 +1569,143 @@ CLIENT -> SERVER: qmn_question_answer_incorrect'></div><div class=3D'qmn_questio
 CLIENT -> SERVER: question_answer_incorrect'></div>
 CLIENT -> SERVER: .
 CLIENT -> SERVER: QUIT
+CLIENT -> SERVER: EHLO localhost
+CLIENT -> SERVER: STARTTLS
+CLIENT -> SERVER: EHLO localhost
+CLIENT -> SERVER: AUTH CRAM-MD5
+CLIENT -> SERVER: MDY5ODY4OGM4Y2ExNWEgZGY2ZDczNzY4NjBmYTA2ZDZjYTFmMTYxMjYwODUyNTU=
+CLIENT -> SERVER: MAIL FROM:<shezmerhant786@gmail.com>
+CLIENT -> SERVER: RCPT TO:<shezmerchant786@gmail.com>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Thu, 10 Oct 2019 18:59:20 +0000
+CLIENT -> SERVER: To: shezmerchant786@gmail.com
+CLIENT -> SERVER: From: Quiz time <shezmerhant786@gmail.com>
+CLIENT -> SERVER: Subject: [General Knowledge Quiz] New user account
+CLIENT -> SERVER: Message-ID: <f82bd39eb872823d37b66897e9cf5c77@localhost>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+CLIENT -> SERVER: 
+CLIENT -> SERVER: <html>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 				<body style="background: #f2f2f2;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: grayscale;">
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 				
+CLIENT -> SERVER: 
+CLIENT -> SERVER: <div style="max-width: 560px;padding: 20px;background: #ffffff;border-radius: 5px;margin:40px auto;font-family: Open Sans,Helvetica,Arial;font-size: 15px;color: #666;">
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 	<div style="color: #444444;font-weight: normal;">
+CLIENT -> SERVER: 		<div style="text-align: center;font-weight:600;font-size:26px;padding: 10px 0;border-bottom: solid 3px #eeeeee;">General Knowledge Quiz</div>
+CLIENT -> SERVER: 		
+CLIENT -> SERVER: 		<div style="clear:both"></div>
+CLIENT -> SERVER: 	</div>
+CLIENT -> SERVER: 	
+CLIENT -> SERVER: 	<div style="padding: 0 30px 30px 30px;border-bottom: 3px solid #eeeeee;">
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 		<div style="padding: 30px 0;font-size: 24px;text-align: center;line-height: 40px;">hina fatima has just created an account on General Knowledge Quiz.</span></div>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 		<div style="padding: 10px 0 50px 0;text-align: center;">To view their profile click here: <a href="http://localhost/finalassignment1/site/user/hina/" style="color: #3ba1da;text-decoration: none;">http://localhost/finalassignment1/site/user/hina/</a></div>
+CLIENT -> SERVER: 		
+CLIENT -> SERVER: 		<div style="padding: 0 0 15px 0;">
+CLIENT -> SERVER: 		
+CLIENT -> SERVER: 			<div style="background: #eee;color: #444;padding: 12px 15px; border-radius: 3px;font-weight: bold;font-size: 16px;">Here is the submitted registration form:<br /><br />
+CLIENT -> SERVER: 				form_id: 5<br />date submitted: 10 Oct 2019 18:58<br />user_login: hina<br />first_name: hina<br />last_name: fatima<br />user_email: hina@gmail.com<br />
+CLIENT -> SERVER: 			</div>
+CLIENT -> SERVER: 		</div>
+CLIENT -> SERVER: 		
+CLIENT -> SERVER: 	</div>
+CLIENT -> SERVER: 	
+CLIENT -> SERVER: 	<div style="color: #999;padding: 20px 30px">
+CLIENT -> SERVER: 		
+CLIENT -> SERVER: 		<div style="">Thank you!</div>
+CLIENT -> SERVER: 		<div style="">The <a href="http://localhost/finalassignment1/site" style="color: #3ba1da;text-decoration: none;">General Knowledge Quiz</a> Team</div>
+CLIENT -> SERVER: 		
+CLIENT -> SERVER: 	</div>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: </div>
+CLIENT -> SERVER: 				</body>
+CLIENT -> SERVER: 				</html>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 			
+CLIENT -> SERVER: 
+CLIENT -> SERVER: .
+CLIENT -> SERVER: QUIT
+Could not access file: CLIENT -> SERVER: EHLO localhost
+CLIENT -> SERVER: STARTTLS
+CLIENT -> SERVER: EHLO localhost
+CLIENT -> SERVER: AUTH CRAM-MD5
+CLIENT -> SERVER: MDY5ODY4OGM4Y2ExNWEgNWE1YWZjMTJiNjNlY2ExZWIyNzhjMmM4MzYzMzgzODg=
+CLIENT -> SERVER: MAIL FROM:<shezmerhant786@gmail.com>
+CLIENT -> SERVER: RCPT TO:<hina@gmail.com>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Thu, 10 Oct 2019 18:59:20 +0000
+CLIENT -> SERVER: To: hina@gmail.com
+CLIENT -> SERVER: From: Quiz time <shezmerhant786@gmail.com>
+CLIENT -> SERVER: Subject: Welcome to General Knowledge Quiz!
+CLIENT -> SERVER: Message-ID: <3908c9411575f8a15d8634b8893bad5f@localhost>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+CLIENT -> SERVER: 
+CLIENT -> SERVER: <html>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 				<body style="background: #f2f2f2;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: grayscale;">
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 				
+CLIENT -> SERVER: <div style="max-width: 560px;padding: 20px;background: #ffffff;border-radius: 5px;margin:40px auto;font-family: Open Sans,Helvetica,Arial;font-size: 15px;color: #666;">
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 	<div style="color: #444444;font-weight: normal;">
+CLIENT -> SERVER: 		<div style="text-align: center;font-weight:600;font-size:26px;padding: 10px 0;border-bottom: solid 3px #eeeeee;">General Knowledge Quiz</div>
+CLIENT -> SERVER: 		
+CLIENT -> SERVER: 		<div style="clear:both"></div>
+CLIENT -> SERVER: 	</div>
+CLIENT -> SERVER: 	
+CLIENT -> SERVER: 	<div style="padding: 0 30px 30px 30px;border-bottom: 3px solid #eeeeee;">
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 		<div style="padding: 30px 0;font-size: 24px;text-align: center;line-height: 40px;">Thank you for signing up!<span style="display: block;">Your account is now active.</span></div>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 		<div style="padding: 10px 0 50px 0;text-align: center;"><a href="http://localhost/finalassignment1/site/login/" style="background: #555555;color: #fff;padding: 12px 30px;text-decoration: none;border-radius: 3px;letter-spacing: 0.3px;">Login to our site</a></div>
+CLIENT -> SERVER: 		
+CLIENT -> SERVER: 		<div style="padding:20px;">If you have any problems, please contact us at <a href="mailto:shezmerchant786@gmail.com" style="color: #3ba1da;text-decoration: none">shezmerchant786@gmail.com</a></div>
+CLIENT -> SERVER: 		
+CLIENT -> SERVER: 		
+CLIENT -> SERVER: 	</div>
+CLIENT -> SERVER: 	
+CLIENT -> SERVER: 	<div style="color: #999;padding: 20px 30px">
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 		<div style="">Thank you!</div>
+CLIENT -> SERVER: 		<div style="">The <a href="http://localhost/finalassignment1/site" style="color: #3ba1da;text-decoration: none;">General Knowledge Quiz</a> Team</div>
+CLIENT -> SERVER: 		
+CLIENT -> SERVER: 	</div>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: </div>
+CLIENT -> SERVER: 				</body>
+CLIENT -> SERVER: 				</html>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 			
+CLIENT -> SERVER: 
+CLIENT -> SERVER: .
+CLIENT -> SERVER: QUIT
+CLIENT -> SERVER: EHLO localhost
+CLIENT -> SERVER: STARTTLS
+CLIENT -> SERVER: EHLO localhost
+CLIENT -> SERVER: AUTH CRAM-MD5
+CLIENT -> SERVER: MDY5ODY4OGM4Y2ExNWEgMTExNjI1NWUwYmJjNDM1ZjgzMmQ1NWVjMWRlYmJmNDQ=
+CLIENT -> SERVER: MAIL FROM:<shezmerhant786@gmail.com>
+CLIENT -> SERVER: RCPT TO:<shezmerchant786@gmail.com>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Thu, 10 Oct 2019 19:03:09 +0000
+CLIENT -> SERVER: To: shezmerchant786@gmail.com
+CLIENT -> SERVER: From: WordPress <shezmerhant786@gmail.com>
+CLIENT -> SERVER: Reply-To: hina fatima <hina@gmail.com>
+CLIENT -> SERVER: Subject: Quiz results for General Knowledge Quiz
+CLIENT -> SERVER: Message-ID: <82ff8321d414477f7666668c14d596fa@localhost>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+CLIENT -> SERVER: 
+CLIENT -> SERVER: <em><strong>Thank you for taking the quiz, </strong></em><br><em>Your quiz Result is as under: </em><br>User Name: <span class="template_name">hina fatima</span> <br>Your Score : 30
+CLIENT -> SERVER: 
+CLIENT -> SERVER: .
+CLIENT -> SERVER: QUIT
